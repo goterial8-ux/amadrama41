@@ -1,16 +1,17 @@
 import 'dotenv/config';
 import express from 'express';
 import path from 'path';
-import { fileURLToPath } from 'url';
-import { createServer as createViteServer } from 'vite';
 import { generateRouter } from './server/api.js';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+console.log("Starting Cloud Run server...");
+console.log("PORT:", process.env.PORT);
+console.log("GOOGLE_CLOUD_PROJECT:", process.env.GOOGLE_CLOUD_PROJECT);
+console.log("GOOGLE_CLOUD_LOCATION:", process.env.GOOGLE_CLOUD_LOCATION);
+console.log("GOOGLE_GENAI_USE_VERTEXAI:", process.env.GOOGLE_GENAI_USE_VERTEXAI);
 
 async function startServer() {
   const app = express();
-  const PORT = Number(process.env.PORT) || 8080;
+  const port = Number(process.env.PORT || 8080);
 
   app.use(express.json({ limit: '10mb' }));
 
@@ -24,12 +25,15 @@ async function startServer() {
 
   // Vite middleware for development
   if (process.env.NODE_ENV !== 'production') {
+    console.log("Loading Vite in development mode...");
+    const { createServer: createViteServer } = await import('vite');
     const vite = await createViteServer({
       server: { middlewareMode: true },
       appType: 'spa',
     });
     app.use(vite.middlewares);
   } else {
+    console.log("Loading production static files fallback...");
     const distPath = path.join(process.cwd(), 'dist');
     app.use(express.static(distPath));
     app.get('*', (req, res) => {
@@ -37,9 +41,12 @@ async function startServer() {
     });
   }
 
-  app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server running on http://localhost:${PORT}`);
+  app.listen(port, '0.0.0.0', () => {
+    console.log(`Server listening on port ${port}`);
   });
 }
 
-startServer().catch(console.error);
+startServer().catch((err) => {
+  console.error("Failed to start server:", err);
+  process.exit(1);
+});
