@@ -1,0 +1,1401 @@
+вот пример ответа для 02 MACRO OUTLINE. Его нужно вставить после мастер-промпта этого этапа.
+
+Главное: этот пример показывает структуру, глубину и формат, но не должен копироваться как сюжет.
+
+==================================================
+IMPORTANT: HOW TO USE THE EXAMPLE RESPONSE
+==================================================
+
+Below is an example of how a 02 MACRO OUTLINE answer should look.
+
+This example is NOT a story template.
+Do not copy its plot, names, medical setting, part structure, proof system, scenes, or exact ideas.
+
+The example only demonstrates:
+- the required structure;
+- the level of detail;
+- how to distribute 120,000–130,000 characters across 9 parts;
+- how to build part functions;
+- how to track payoff, regret, antagonist escalation, protagonist control, and hidden cards;
+- how to prepare a clean handoff to 03 SCENE CARDS.
+
+When the user gives a new project, generate a fresh 02 MACRO OUTLINE report based only on the approved 01 FOUNDATION DNA handoff.
+
+Do not answer with:
+- “Understood”;
+- “Looks good”;
+- a short summary;
+- scene cards;
+- final script prose.
+
+You must output the full 02 MACRO OUTLINE report using all required sections.
+
+Follow the structure and depth of this example.
+Do not copy its story content.
+
+А вот сам пример:
+
+==================================================
+EXAMPLE 02 MACRO OUTLINE RESPONSE
+==================================================
+
+PROJECT USED FOR THIS EXAMPLE:
+
+A poor hospital resident secretly saves the mayor’s daughter by identifying a rare poison, but the hospital director gives all credit to a celebrity surgeon. The protagonist’s fiancée leaves him for the celebrity doctor because she believes fame and medical status prove real value. The protagonist secretly kept the diagnostic logs and knows the “miracle doctor” cannot repeat the treatment.
+
+==================================================
+1. 01 HANDOFF RECAP
+==================================================
+
+Selected opening concept:
+Emergency Room Erasure.
+
+Locked story DNA:
+A poor hospital resident saves a VIP patient, but a celebrity surgeon receives public credit and builds a “miracle doctor” identity from stolen competence.
+
+Protagonist function:
+Adrian is the erased real doctor. Publicly, he is a low-status resident. Privately, he is the only person who understood the rare poison and ordered the correct antidote.
+
+Antagonist function:
+Lucien is the fake savior. He is polished, famous, and institutionally protected, but he cannot reproduce the medical reasoning behind the miracle.
+
+Betrayer function:
+Clara is Adrian’s fiancée who chooses Lucien because she mistakes hospital status and public fame for real value.
+
+True ally function:
+Evelyn Cross, a senior toxicologist or external investigator, recognizes Adrian’s reasoning and later validates the proof publicly.
+
+Power-system logic:
+The power system is medical authority versus real diagnostic competence. Titles, press, hospital hierarchy, and VIP approval create temporary power; patient data and repeated medical reality create final truth.
+
+Proof system lock:
+Treatment board, monitor timestamps, antidote order, toxicology curve, access logs, and public medical review.
+
+Hidden card schedule:
+Hidden Card 1: Adrian ordered the antidote before Lucien entered.  
+Hidden Card 2: The hospital altered the official treatment record.  
+Hidden Card 3: Lucien cannot repeat the cure because he never understood it.
+
+Face-slap variation map:
+Professional, institutional, romantic, medical, reputation, and final systemic proof.
+
+Final collapse direction:
+Lucien fails a public repeat-case. The hospital cover-up is exposed. Adrian is recognized as the real doctor and leaves with restored professional dignity.
+
+Surfaces to avoid by default:
+Gala, red carpet, luxury party, repeated boardroom committee scenes, generic press-only scenes.
+
+Key rule for this stage:
+Build the 9-part outline around escalating medical proof, not speeches or generic revenge scenes.
+
+==================================================
+2. TOTAL LENGTH PLAN
+==================================================
+
+Total target:
+120,000–130,000 characters including spaces.
+
+Part length distribution:
+
+| Part | Target Character Range | Drama Weight | Reason |
+|---|---:|---|---|
+| Part 1 | 14,000–15,500 | High | Must deliver emergency hook, stolen credit, Clara’s first wrong choice, and Adrian’s hidden advantage. |
+| Part 2 | 12,500–13,500 | Medium-High | Establishes institutional suppression and first technical crack in Lucien’s miracle identity. |
+| Part 3 | 12,500–13,500 | Medium | Introduces true ally recognition and begins deeper proof logic without full reveal. |
+| Part 4 | 13,500–14,500 | Medium-High | Second case begins, pressure rises, and Lucien is forced into competence arena. |
+| Part 5 | 14,000–15,500 | High | Midpoint medical failure, patient danger, Clara’s first fear, and Lucien’s panic. |
+| Part 6 | 13,000–14,000 | Medium-High | Enemy counterattack, hospital framing, and protagonist ethical cost. |
+| Part 7 | 12,500–13,500 | Medium-High | Evelyn verifies contradictions and final proof structure begins aligning. |
+| Part 8 | 14,000–15,500 | High | Final public trap closes, Lucien cracks under live pressure, and Adrian must intervene. |
+| Part 9 | 15,000–16,500 | High | Full proof reveal, public collapse, consequences, Clara rejection, and restored dignity. |
+
+Approximate total range:
+121,000–131,500 characters.
+
+Adjustment note:
+During 04 FINAL SCRIPT, keep the final output closer to 124,000–128,000 characters by compressing low-action institutional material and expanding Parts 1, 5, 8, and 9.
+
+==================================================
+3. 9-PART MACRO OUTLINE OVERVIEW
+==================================================
+
+PART 1 — The Miracle Stolen in the Emergency Room  
+Target: 14,000–15,500 characters.  
+Main dramatic function: Open with life-or-death pressure, prove Adrian’s competence, then erase him publicly.  
+Emotional role: Sharp injustice and first betrayal.  
+Main conflict: Adrian saves the mayor’s daughter, but Lucien receives credit.  
+Primary dopamine payoff: Viewer sees the truth before the public does.  
+Secondary tension: Clara chooses Lucien’s visible status.  
+Regret movement: Clara arrogance begins.  
+Antagonist movement: Lucien accepts the miracle identity.  
+Hidden card movement: Antidote timing is hinted, not fully revealed.  
+Ending hook: Adrian realizes Lucien has accepted a title he cannot defend.
+
+PART 2 — The Hospital Buries the Real Doctor  
+Target: 12,500–13,500 characters.  
+Main dramatic function: Show institutional suppression and first professional crack.  
+Emotional role: Pressure and quiet control.  
+Main conflict: Adrian is reassigned and framed as an unstable jealous resident.  
+Primary dopamine payoff: Lucien misexplains the toxin, and Adrian notices.  
+Secondary tension: Clara interprets Adrian’s calmness as bitterness.  
+Regret movement: Clara irritation.  
+Antagonist movement: Lucien pushes Adrian out of VIP cases.  
+Hidden card movement: Record tampering is hinted.  
+Ending hook: A true expert notices one inconsistency.
+
+PART 3 — The First Person Who Sees the Pattern  
+Target: 12,500–13,500 characters.  
+Main dramatic function: Introduce Evelyn as recognition ally and deepen proof logic.  
+Emotional role: First validation.  
+Main conflict: Evelyn tests Adrian’s medical reasoning while Lucien tries to maintain status.  
+Primary dopamine payoff: Evelyn realizes Adrian understands the case better than Lucien.  
+Secondary tension: Lucien senses professional threat.  
+Regret movement: Clara denial.  
+Antagonist movement: Lucien starts building a counter-narrative.  
+Hidden card movement: Treatment logs and access records become important.  
+Ending hook: Similar symptoms appear in another patient.
+
+PART 4 — The Second Poison Case  
+Target: 13,500–14,500 characters.  
+Main dramatic function: Move from old proof to live danger.  
+Emotional role: Suspense and competence test.  
+Main conflict: Lucien takes control of a second rare case while Adrian recognizes the pattern.  
+Primary dopamine payoff: Adrian predicts symptoms before senior doctors.  
+Secondary tension: Patient safety becomes real cost.  
+Regret movement: Clara’s first doubt.  
+Antagonist movement: Lucien overcompensates publicly.  
+Hidden card movement: Repeat-case proof begins.  
+Ending hook: Lucien chooses the wrong treatment path.
+
+PART 5 — The Miracle Doctor Starts to Fail  
+Target: 14,000–15,500 characters.  
+Main dramatic function: Midpoint proof and first major public crack.  
+Emotional role: Tension payoff and panic.  
+Main conflict: Lucien’s treatment worsens the second patient’s condition.  
+Primary dopamine payoff: Adrian’s quiet warning proves correct.  
+Secondary tension: If Adrian waits too long, an innocent patient may die.  
+Regret movement: Clara fear begins.  
+Antagonist movement: Lucien panics but refuses to admit ignorance.  
+Hidden card movement: Evelyn starts comparing both cases.  
+Ending hook: Lucien blames Adrian for sabotaging the treatment.
+
+PART 6 — The Fake Savior Strikes Back  
+Target: 13,000–14,000 characters.  
+Main dramatic function: Enemy counterattack and protagonist ethical cost.  
+Emotional role: Pressure and moral contrast.  
+Main conflict: Hospital leadership tries to frame Adrian as dangerous and unethical.  
+Primary dopamine payoff: Adrian still helps stabilize the patient despite being attacked.  
+Secondary tension: His restraint costs him more reputation.  
+Regret movement: Clara sees moral contrast but rationalizes it.  
+Antagonist movement: Lucien doubles down and weaponizes hospital authority.  
+Hidden card movement: Access logs and record gaps become stronger.  
+Ending hook: A public medical panel is announced to protect the hospital’s reputation.
+
+PART 7 — The Records Begin to Bleed  
+Target: 12,500–13,500 characters.  
+Main dramatic function: Align hidden proof and prepare the final trap.  
+Emotional role: Investigation with visible stakes.  
+Main conflict: Evelyn verifies contradictions while the hospital tries to block her.  
+Primary dopamine payoff: A partial timestamp contradiction becomes undeniable to experts.  
+Secondary tension: Lucien still controls the public narrative.  
+Regret movement: Clara enters proof shock but still tries to save face.  
+Antagonist movement: Lucien accepts the public stage to restore his image.  
+Hidden card movement: Full timestamp chain is almost ready but not public.  
+Ending hook: Lucien promises to prove his miracle skill before witnesses.
+
+PART 8 — The Public Treatment Trap  
+Target: 14,000–15,500 characters.  
+Main dramatic function: Close the trap and force Lucien into live competence.  
+Emotional role: Final pre-collapse pressure.  
+Main conflict: Lucien treats the second patient publicly and fails under expert observation.  
+Primary dopamine payoff: Lucien’s medical mask cracks in front of the same institution that worshipped him.  
+Secondary tension: Adrian must decide when to intervene without making the patient a tool.  
+Regret movement: Clara fully understands she chose the badge, not the healer.  
+Antagonist movement: Lucien refuses to step aside until the situation becomes catastrophic.  
+Hidden card movement: Final proof waits for the exact public moment.  
+Ending hook: Adrian steps forward to save the patient.
+
+PART 9 — The Real Doctor’s Name  
+Target: 15,000–16,500 characters.  
+Main dramatic function: Full reveal, public collapse, consequences, and restored dignity.  
+Emotional role: Maximum payoff and closure.  
+Main conflict: Adrian saves the patient and Evelyn exposes the full timestamp chain.  
+Primary dopamine payoff: The public record proves Adrian was the real miracle doctor from the beginning.  
+Secondary tension: Hospital tries to contain blame.  
+Regret movement: Clara bargains too late and is rejected.  
+Antagonist movement: Lucien breaks as his miracle identity collapses.  
+Hidden card movement: All hidden cards are revealed.  
+Ending hook: Adrian leaves with independent professional authority and no need for the people who erased him.
+
+==================================================
+4. PART-BY-PART DETAILED MACRO OUTLINE
+==================================================
+
+PART 1 — THE MIRACLE STOLEN IN THE EMERGENCY ROOM
+
+Target character range:
+14,000–15,500 characters.
+
+Part function:
+Open with a life-or-death emergency, show Adrian’s true competence, then create the central injustice by giving Lucien public credit.
+
+Starting state:
+Adrian is a low-status resident working under pressure. Clara is still connected to him, but she is already frustrated by his lack of prestige.
+
+Main conflict:
+The mayor’s daughter is dying from a rare poison. Senior doctors misread the symptoms. Adrian sees the pattern and orders the correct antidote.
+
+Protagonist objective:
+Save the patient and prevent senior doctors from using the wrong treatment.
+
+Antagonist objective:
+Lucien wants to preserve his celebrity image and later accepts credit for a case he did not solve.
+
+Betrayer movement:
+Clara sees Adrian act, but when the hospital director praises Lucien, she chooses the safer public narrative.
+
+True ally movement:
+True ally does not fully enter yet, but the proof system begins with clinical data that Evelyn can later recognize.
+
+Proof / hidden card movement:
+Adrian’s antidote order, monitor stabilization, and treatment-board name are established. The full timestamp chain is not revealed.
+
+Public payoff:
+Viewer sees Adrian was the real savior while the hospital gives the glory to Lucien. This creates viewer superiority.
+
+Cost / consequence:
+Adrian saves a life but loses credit, emotional trust, and institutional position.
+
+Why this part is not repetitive:
+The payoff is not money or romance first. It is medical competence erased by hospital hierarchy.
+
+Ending hook:
+Adrian hears Lucien misname the toxin class while thanking the mayor’s family. Adrian realizes the fake miracle doctor cannot repeat the miracle.
+
+---
+
+PART 2 — THE HOSPITAL BURIES THE REAL DOCTOR
+
+Target character range:
+12,500–13,500 characters.
+
+Part function:
+Show how the institution protects the false narrative and pushes Adrian down.
+
+Starting state:
+Lucien is publicly celebrated. Adrian is treated like an inconvenient witness. Clara begins leaning toward Lucien’s status.
+
+Main conflict:
+The hospital director reassigns Adrian away from VIP cases and frames it as discipline.
+
+Protagonist objective:
+Stay calm, avoid an emotional outburst, and quietly preserve proof.
+
+Antagonist objective:
+Lucien wants Adrian removed before anyone asks technical questions.
+
+Betrayer movement:
+Clara tells herself Adrian is jealous and bitter. Her arrogance becomes irritation when he does not break down.
+
+True ally movement:
+A senior toxicologist or Evelyn’s department notices a discrepancy in the official summary, but not Adrian yet.
+
+Proof / hidden card movement:
+Record tampering and access denial are hinted. The altered treatment board becomes future evidence.
+
+Public payoff:
+Lucien makes a small technical mistake in a professional setting. Adrian notices, and one other competent person may notice.
+
+Cost / consequence:
+Adrian loses access and status, but suppression creates a paper trail.
+
+Why this part is not repetitive:
+The part shifts from emergency pressure to institutional suppression and professional inconsistency.
+
+Ending hook:
+A message or inquiry from an external toxicology reviewer suggests someone outside the hospital noticed the same inconsistency.
+
+---
+
+PART 3 — THE FIRST PERSON WHO SEES THE PATTERN
+
+Target character range:
+12,500–13,500 characters.
+
+Part function:
+Introduce the recognition ally and show that Adrian’s competence can survive outside hospital hierarchy.
+
+Starting state:
+Adrian is officially weakened. Lucien is rising. Clara thinks Adrian’s silence proves defeat.
+
+Main conflict:
+Evelyn tests Adrian indirectly or directly after noticing inconsistencies in the hospital’s official explanation.
+
+Protagonist objective:
+Answer enough to prove competence without illegally exposing patient records.
+
+Antagonist objective:
+Lucien wants Evelyn and other experts to accept his public miracle identity.
+
+Betrayer movement:
+Clara denies the possibility that Adrian knows more. She rationalizes Evelyn’s attention as pity or professional curiosity.
+
+True ally movement:
+Evelyn first notices, tests, and begins suspecting that Adrian’s reasoning is real.
+
+Proof / hidden card movement:
+Treatment logic becomes more important. Evelyn begins looking for legal access to records.
+
+Public payoff:
+A competent expert gives Adrian serious attention while Lucien cannot fully answer the same technical line of questioning.
+
+Cost / consequence:
+Lucien feels threatened and starts preparing a stronger counterattack.
+
+Why this part is not repetitive:
+The payoff is not public humiliation; it is recognition by competence.
+
+Ending hook:
+A second patient arrives with a symptom pattern similar to the original poison case.
+
+---
+
+PART 4 — THE SECOND POISON CASE
+
+Target character range:
+13,500–14,500 characters.
+
+Part function:
+Move the story from past injustice into live proof. The lie now meets reality.
+
+Starting state:
+Lucien is still publicly dominant. Adrian has partial recognition from Evelyn but no public proof. Clara remains in denial.
+
+Main conflict:
+A second patient begins showing rare symptoms that Lucien misreads.
+
+Protagonist objective:
+Prevent harm while avoiding premature exposure.
+
+Antagonist objective:
+Use the case to prove his miracle doctor identity.
+
+Betrayer movement:
+Clara sees Lucien hesitate for the first time, but she explains it away as pressure.
+
+True ally movement:
+Evelyn watches how Adrian reacts to the symptoms and compares it with Lucien’s response.
+
+Proof / hidden card movement:
+Repeat-case proof begins. Adrian’s earlier diagnosis becomes relevant without being fully public.
+
+Public payoff:
+Adrian predicts a symptom shift before the monitors confirm it.
+
+Cost / consequence:
+Adrian’s warning is ignored, increasing patient danger.
+
+Why this part is not repetitive:
+This part is a live medical test, not a records dispute.
+
+Ending hook:
+Lucien chooses the wrong treatment path.
+
+---
+
+PART 5 — THE MIRACLE DOCTOR STARTS TO FAIL
+
+Target character range:
+14,000–15,500 characters.
+
+Part function:
+Deliver the midpoint proof crack. The fake miracle doctor visibly fails.
+
+Starting state:
+Lucien has taken control of the second case. Adrian and Evelyn know something is wrong. Clara is nervous but still publicly loyal to Lucien.
+
+Main conflict:
+Lucien’s treatment worsens the patient’s condition.
+
+Protagonist objective:
+Find a way to reduce harm without giving Lucien easy access to the truth.
+
+Antagonist objective:
+Maintain control and blame any complications on external factors.
+
+Betrayer movement:
+Clara experiences real fear. She sees Lucien panic and Adrian remain clinically precise.
+
+True ally movement:
+Evelyn becomes more convinced Adrian is the real diagnostic mind.
+
+Proof / hidden card movement:
+The second case mirrors the first case. Evelyn begins matching treatment timings.
+
+Public payoff:
+Lucien’s confidence cracks in front of medical staff. Adrian’s earlier warning becomes visibly correct.
+
+Cost / consequence:
+Patient safety becomes the protagonist’s ethical burden.
+
+Why this part is not repetitive:
+The face-slap is medical and competence-based, not social or romantic.
+
+Ending hook:
+Lucien accuses Adrian of sabotaging the treatment or manipulating staff.
+
+---
+
+PART 6 — THE FAKE SAVIOR STRIKES BACK
+
+Target character range:
+13,000–14,000 characters.
+
+Part function:
+Create enemy counterattack and show Adrian’s moral cost.
+
+Starting state:
+Lucien’s reputation is shaking. Adrian’s competence is harder to ignore. Clara is afraid but not ready to admit fault.
+
+Main conflict:
+Lucien and hospital leadership try to frame Adrian as dangerous and unethical.
+
+Protagonist objective:
+Protect the patient and avoid being legally trapped.
+
+Antagonist objective:
+Shift blame away from Lucien and bury Adrian again.
+
+Betrayer movement:
+Clara sees Adrian still help despite being attacked. This creates moral discomfort.
+
+True ally movement:
+Evelyn begins actively verifying records and pushing for authorized review.
+
+Proof / hidden card movement:
+Record gaps and access logs become stronger proof.
+
+Public payoff:
+Adrian still helps stabilize the patient through a route Lucien missed, but the public still does not know the full truth.
+
+Cost / consequence:
+Adrian pays with more reputation damage and institutional isolation.
+
+Why this part is not repetitive:
+The part is not a simple “enemy fails.” It shows protagonist cost and ethical restraint.
+
+Ending hook:
+The hospital announces a public medical panel to protect the hospital’s reputation.
+
+---
+
+PART 7 — THE RECORDS BEGIN TO BLEED
+
+Target character range:
+12,500–13,500 characters.
+
+Part function:
+Align final proof and prepare the public trap.
+
+Starting state:
+Hospital wants to control the narrative. Lucien needs public restoration. Adrian and Evelyn are close to proof.
+
+Main conflict:
+Evelyn verifies contradictions while the hospital tries to block access or intimidate her.
+
+Protagonist objective:
+Help Evelyn connect proof without exposing protected records improperly.
+
+Antagonist objective:
+Turn the public panel into a controlled PR event.
+
+Betrayer movement:
+Clara enters proof shock privately but tries to protect her public image.
+
+True ally movement:
+Evelyn moves from suspicion to private confirmation.
+
+Proof / hidden card movement:
+The timestamp chain is nearly complete, but full reveal is saved.
+
+Public payoff:
+A partial contradiction becomes undeniable to experts, making Lucien’s team nervous.
+
+Cost / consequence:
+Hospital begins risking its own legal standing by continuing the cover-up.
+
+Why this part is not repetitive:
+The payoff is investigative and institutional, not another live patient crisis.
+
+Ending hook:
+Lucien publicly promises to prove his miracle skill in front of experts.
+
+---
+
+PART 8 — THE PUBLIC TREATMENT TRAP
+
+Target character range:
+14,000–15,500 characters.
+
+Part function:
+Close the final trap and force Lucien to perform under real pressure.
+
+Starting state:
+The public panel begins. Lucien is confident on stage, but Adrian and Evelyn know the proof is ready.
+
+Main conflict:
+The second patient deteriorates during Lucien’s public treatment decision.
+
+Protagonist objective:
+Wait for undeniable proof, then intervene before the patient is lost.
+
+Antagonist objective:
+Use the stage to restore his miracle identity.
+
+Betrayer movement:
+Clara sees the final collapse forming and realizes Adrian may have been right all along.
+
+True ally movement:
+Evelyn positions the proof so it can be revealed legally and publicly.
+
+Proof / hidden card movement:
+Final proof is ready but not released until Lucien makes the fatal wrong call.
+
+Public payoff:
+Lucien’s medical mask cracks in front of experts, administrators, Clara, and witnesses.
+
+Cost / consequence:
+Adrian must step forward, risking being accused of grandstanding or violating hierarchy.
+
+Why this part is not repetitive:
+This is the final live competence test, not another institutional pressure scene.
+
+Ending hook:
+Adrian intervenes with the correct treatment and forces the truth into the open.
+
+---
+
+PART 9 — THE REAL DOCTOR’S NAME
+
+Target character range:
+15,000–16,500 characters.
+
+Part function:
+Deliver the full reveal, collapse, consequences, and restored dignity.
+
+Starting state:
+Patient is in danger. Lucien is exposed but still trying to hold narrative control. Clara is emotionally cornered.
+
+Main conflict:
+Adrian saves the patient while Evelyn reveals the full timestamp chain.
+
+Protagonist objective:
+Save the patient, expose the truth, and exit without begging for old validation.
+
+Antagonist objective:
+Deny, deflect, and survive reputational collapse.
+
+Betrayer movement:
+Clara bargains too late and tries to separate herself from Lucien’s lie.
+
+True ally movement:
+Evelyn publicly validates Adrian and offers professional partnership.
+
+Proof / hidden card movement:
+All hidden cards reveal: antidote timing, altered records, Lucien’s inability to repeat the cure.
+
+Public payoff:
+The public learns Adrian was the real miracle doctor. Lucien’s identity collapses.
+
+Cost / consequence:
+Lucien faces suspension and investigation. Hospital faces review. Clara loses moral status. Adrian gains restored dignity.
+
+Why this part is not repetitive:
+This is the only full systemic collapse and complete proof reveal.
+
+Ending hook:
+Adrian leaves the hospital’s corrupt hierarchy and steps into a stronger professional future.
+
+==================================================
+5. PUBLIC PAYOFF MAP ACROSS 9 PARTS
+==================================================
+
+| Part | Payoff Type | Who Witnesses It | False Belief Cracked | Status Gain | Status Loss | New Problem |
+|---|---|---|---|---|---|---|
+| 1 | Viewer-superiority payoff | Reader/viewer, emergency staff indirectly | Lucien is the savior | Lucien publicly | Adrian publicly | Adrian lacks legal public proof |
+| 2 | Technical crack | Staff / one expert | Lucien understands the cure | Adrian secretly | Lucien slightly | Hospital suppresses Adrian |
+| 3 | Ally recognition | Evelyn / limited professionals | Adrian is just jealous | Adrian privately | Lucien intellectually | Lucien feels threatened |
+| 4 | Live symptom prediction | Medical team | Lucien can handle a repeat case | Adrian quietly | Lucien internally | Patient danger increases |
+| 5 | Midpoint medical failure | Medical staff / Clara | Lucien is calm and competent | Adrian’s warning | Lucien’s mask | Lucien blames Adrian |
+| 6 | Ethical contrast | Staff / Clara / Evelyn | Adrian is bitter | Adrian morally | Lucien morally | Adrian is framed harder |
+| 7 | Expert proof contradiction | Evelyn / experts | Hospital record is clean | Adrian legally | Hospital integrity | Hospital tries PR event |
+| 8 | Public competence collapse | Panel / experts / Clara | Lucien can repeat the miracle | Adrian visibly | Lucien publicly | Patient must be saved |
+| 9 | Final systemic reveal | Public medical audience | Lucien saved the first patient | Adrian fully | Lucien/hospital/Clara | Aftermath and consequences |
+
+Variety check:
+Payoffs vary across technical, medical, institutional, romantic, professional, ethical, and final systemic proof. No single payoff type dominates.
+
+==================================================
+6. REGRET MOVEMENT MAP
+==================================================
+
+Part 1:
+Emotional state:
+Arrogance.
+
+Belief:
+Clara believes Lucien is the future.
+
+What she sees:
+Lucien praised by hospital leadership.
+
+Rationalization:
+Adrian may be smart, but Lucien has real status.
+
+Change:
+She publicly aligns with Lucien.
+
+Part 2:
+Emotional state:
+Irritation.
+
+Belief:
+Adrian should be devastated.
+
+What she sees:
+Adrian remains controlled.
+
+Rationalization:
+He is pretending.
+
+Change:
+His calmness annoys her.
+
+Part 3:
+Emotional state:
+First doubt.
+
+Belief:
+Lucien is still superior, but Adrian may know more than she thought.
+
+What she sees:
+Evelyn takes Adrian seriously.
+
+Rationalization:
+Maybe Evelyn is just testing everyone.
+
+Change:
+Her certainty weakens slightly.
+
+Part 4:
+Emotional state:
+Denial.
+
+Belief:
+Lucien will prove himself in the second case.
+
+What she sees:
+Lucien hesitates.
+
+Rationalization:
+Pressure affects even great doctors.
+
+Change:
+She becomes defensive.
+
+Part 5:
+Emotional state:
+Fear.
+
+Belief:
+Something is wrong.
+
+What she sees:
+Lucien’s treatment worsens the patient.
+
+Rationalization:
+Adrian may be interfering.
+
+Change:
+She starts watching Adrian more closely.
+
+Part 6:
+Emotional state:
+Moral discomfort.
+
+Belief:
+Maybe Adrian is not acting from jealousy.
+
+What she sees:
+Adrian helps despite being framed.
+
+Rationalization:
+He is just too attached to the hospital.
+
+Change:
+Her internal defense starts cracking.
+
+Part 7:
+Emotional state:
+Proof shock.
+
+Belief:
+The old story may be false.
+
+What she sees:
+Record contradictions.
+
+Rationalization:
+Maybe the hospital misled everyone.
+
+Change:
+She starts shifting blame away from herself.
+
+Part 8:
+Emotional state:
+Panic and regret.
+
+Belief:
+She chose the wrong man.
+
+What she sees:
+Lucien failing publicly while Adrian knows what to do.
+
+Rationalization:
+She tells herself she did not know.
+
+Change:
+Regret becomes active.
+
+Part 9:
+Emotional state:
+Bargaining and rejection.
+
+Belief:
+Adrian may still forgive her.
+
+What she sees:
+Adrian restored and emotionally unreachable.
+
+Rationalization:
+None left.
+
+Change:
+She is rejected and left with the consequence of her public choice.
+
+==================================================
+7. ANTAGONIST ESCALATION MAP
+==================================================
+
+Part 1:
+Belief:
+Lucien believes he can accept credit safely.
+
+Action:
+Accepts miracle doctor identity.
+
+Why it makes sense:
+The hospital protects him and the public wants a polished savior.
+
+Cost:
+He becomes responsible for a cure he does not understand.
+
+Final collapse prep:
+His claim creates future expectation.
+
+Part 2:
+Belief:
+Adrian is a low-status threat.
+
+Action:
+Pushes for reassignment and silence.
+
+Why it makes sense:
+Removing Adrian reduces immediate risk.
+
+Cost:
+Creates suppression evidence.
+
+Final collapse prep:
+Record tampering begins.
+
+Part 3:
+Belief:
+He can bluff through expert attention.
+
+Action:
+Performs confidence while avoiding deep answers.
+
+Why it makes sense:
+His public mask has worked before.
+
+Cost:
+Evelyn starts suspecting him.
+
+Final collapse prep:
+Technical contradictions accumulate.
+
+Part 4:
+Belief:
+A second case can reinforce his miracle image.
+
+Action:
+Takes control publicly.
+
+Why it makes sense:
+Success would silence doubt.
+
+Cost:
+He enters a competence test.
+
+Final collapse prep:
+The repeat-case mirrors the first case.
+
+Part 5:
+Belief:
+Complications can be blamed on others.
+
+Action:
+Refuses to admit the treatment is wrong.
+
+Why it makes sense:
+Admitting uncertainty would destroy his title.
+
+Cost:
+Patient worsens.
+
+Final collapse prep:
+His wrong decisions become visible proof.
+
+Part 6:
+Belief:
+Adrian can be framed.
+
+Action:
+Accuses Adrian of sabotage or unethical interference.
+
+Why it makes sense:
+Institutional power still favors him.
+
+Cost:
+Creates more contradictory records.
+
+Final collapse prep:
+The cover-up expands.
+
+Part 7:
+Belief:
+A public panel can restore authority.
+
+Action:
+Agrees to prove himself before experts.
+
+Why it makes sense:
+He trusts performance and reputation.
+
+Cost:
+He locks himself into a public test.
+
+Final collapse prep:
+No escape from expert scrutiny.
+
+Part 8:
+Belief:
+Doubling down is safer than admitting ignorance.
+
+Action:
+Continues wrong treatment until exposed.
+
+Why it makes sense:
+He fears immediate collapse.
+
+Cost:
+Public panic and expert doubt.
+
+Final collapse prep:
+His incompetence becomes undeniable.
+
+Part 9:
+Belief:
+Narrative control can still save him.
+
+Action:
+Denies, deflects, blames hospital, blames Adrian.
+
+Why it makes sense:
+It is his only remaining tool.
+
+Cost:
+Public proof destroys all escape routes.
+
+Final collapse prep:
+Complete professional ruin.
+
+==================================================
+8. PROTAGONIST CONTROL MAP
+==================================================
+
+Part 1:
+Appears to lose:
+Credit and Clara.
+
+Actually gains:
+Lucien’s public claim.
+
+Observes:
+Lucien misnames the toxin.
+
+Collects:
+Memory and initial proof of antidote timing.
+
+Chooses not to reveal:
+Full treatment chain.
+
+Control visibility:
+Viewer sees he knows more than everyone.
+
+Part 2:
+Appears to lose:
+Access and rotation.
+
+Actually gains:
+Suppression trail.
+
+Observes:
+Who edits records.
+
+Collects:
+Access denial and altered summary clues.
+
+Chooses not to reveal:
+Backup evidence.
+
+Control visibility:
+His silence becomes strategic.
+
+Part 3:
+Appears to lose:
+Public credibility.
+
+Actually gains:
+Evelyn’s attention.
+
+Observes:
+Lucien’s weak technical answers.
+
+Collects:
+Expert suspicion.
+
+Chooses not to reveal:
+Direct accusation.
+
+Control visibility:
+A real expert begins validating him.
+
+Part 4:
+Appears to lose:
+Control over second case.
+
+Actually gains:
+Live comparison case.
+
+Observes:
+Symptoms repeating.
+
+Collects:
+Monitor response pattern.
+
+Chooses not to reveal:
+Complete matching logic.
+
+Control visibility:
+His predictions become accurate.
+
+Part 5:
+Appears to lose:
+Time and patient safety margin.
+
+Actually gains:
+Public proof of Lucien’s failure.
+
+Observes:
+Treatment worsening.
+
+Collects:
+Wrong decision chain.
+
+Chooses not to reveal:
+Final proof package.
+
+Control visibility:
+His warning becomes hard to ignore.
+
+Part 6:
+Appears to lose:
+Reputation after sabotage accusation.
+
+Actually gains:
+Evidence of enemy counterattack.
+
+Observes:
+Hospital overreach.
+
+Collects:
+Record gaps.
+
+Chooses not to reveal:
+Full hospital cover-up.
+
+Control visibility:
+He helps despite risk.
+
+Part 7:
+Appears to lose:
+Public narrative.
+
+Actually gains:
+Evelyn’s verified proof.
+
+Observes:
+Hospital panic.
+
+Collects:
+Timestamp chain.
+
+Chooses not to reveal:
+Final proof until public stage.
+
+Control visibility:
+His patience becomes clearly intentional.
+
+Part 8:
+Appears to lose:
+Chance to stay hidden.
+
+Actually gains:
+Irrefutable live proof.
+
+Observes:
+Lucien failing publicly.
+
+Collects:
+Final wrong call.
+
+Chooses not to reveal:
+Nothing after intervention begins.
+
+Control visibility:
+He steps forward at the exact moment.
+
+Part 9:
+Appears to lose:
+Old relationship and hospital belonging.
+
+Actually gains:
+Professional authority and freedom.
+
+Observes:
+Enemies breaking.
+
+Collects:
+No more proof needed.
+
+Chooses not to reveal:
+No unnecessary cruelty.
+
+Control visibility:
+He leaves with restored dignity.
+
+==================================================
+9. HIDDEN CARD MAP
+==================================================
+
+Hidden Card 1 — Adrian ordered the antidote first.
+
+Hinted:
+Part 1 through treatment-board and dosage writing.
+
+Partially revealed:
+Part 3–5 through Evelyn’s questions and repeat symptoms.
+
+Viewer understands:
+By Part 5, viewer strongly suspects Adrian made the true call.
+
+Antagonist misunderstands:
+Lucien thinks the timing is buried.
+
+Public learns:
+Part 9.
+
+Irreversible proof:
+Public timestamp display.
+
+Hidden Card 2 — Hospital altered the record.
+
+Hinted:
+Part 2 through access denial and reassignment.
+
+Partially revealed:
+Part 6–7 through record gaps.
+
+Viewer understands:
+Part 7.
+
+Antagonist misunderstands:
+Hospital thinks bureaucracy protects them.
+
+Public learns:
+Part 9.
+
+Irreversible proof:
+Access logs and altered treatment board history.
+
+Hidden Card 3 — Lucien cannot repeat the cure.
+
+Hinted:
+Part 1–2 through wrong toxin terminology.
+
+Partially revealed:
+Part 4–5 through second case.
+
+Viewer understands:
+Part 5.
+
+Antagonist misunderstands:
+Lucien thinks confidence can hide ignorance.
+
+Public learns:
+Part 8–9.
+
+Irreversible proof:
+Live treatment failure.
+
+==================================================
+10. FACE-SLAP VARIATION PLAN
+==================================================
+
+1. Professional face-slap.
+False belief attacked:
+Lucien understands the cure.
+
+Proof/action:
+Wrong toxin explanation.
+
+Satisfaction:
+Viewer sees fake expertise crack early.
+
+Part:
+Part 2 or 3.
+
+Avoid:
+Do not make it a full reveal.
+
+2. Institutional face-slap.
+False belief attacked:
+Hospital controls the truth.
+
+Proof/action:
+Access logs and altered board history.
+
+Satisfaction:
+The system that erased Adrian becomes evidence.
+
+Part:
+Part 7–9.
+
+Avoid:
+Too many office meetings.
+
+3. Medical face-slap.
+False belief attacked:
+Lucien can repeat the miracle.
+
+Proof/action:
+Second patient worsens under his treatment.
+
+Satisfaction:
+Reality tests the fake.
+
+Part:
+Part 5 and Part 8.
+
+Avoid:
+Repeating the same “wrong treatment” beat too often.
+
+4. Romantic face-slap.
+False belief attacked:
+Clara chose the better future.
+
+Proof/action:
+She watches Lucien panic while Adrian stays competent.
+
+Satisfaction:
+Her regret grows from lived proof.
+
+Part:
+Part 5–9.
+
+Avoid:
+Instant apology.
+
+5. Reputation face-slap.
+False belief attacked:
+Media title equals truth.
+
+Proof/action:
+Public expert correction.
+
+Satisfaction:
+The public identity collapses.
+
+Part:
+Part 8–9.
+
+Avoid:
+Overlong speech.
+
+6. Final systemic face-slap.
+False belief attacked:
+The cover-up can survive.
+
+Proof/action:
+Full timestamp chain and live patient outcome.
+
+Satisfaction:
+All hidden cards resolve.
+
+Part:
+Part 9.
+
+Avoid:
+New evidence appearing from nowhere.
+
+==================================================
+11. SCENE SURFACE GUIDANCE FOR STAGE 03
+==================================================
+
+Surfaces that fit this story DNA:
+Emergency room, toxicology lab, hospital corridor, VIP diagnostic room, treatment board area, monitor station, records archive, external medical review room, public medical panel, recovery ward.
+
+Surfaces to avoid by default:
+Gala, red carpet, luxury restaurant, repeated committee rooms, generic press-only halls.
+
+Surface repetition risks:
+Too many hospital offices would make the story feel static. Stage 03 should alternate between urgent clinical spaces, institutional pressure zones, proof-verification spaces, and public medical arenas.
+
+Public arenas allowed if justified:
+Medical conference, hospital review panel, VIP family briefing, public donor-facing medical hearing. These should be used only when proof needs witnesses.
+
+Private scenes that must stay short:
+Private record-checking, Adrian’s internal analysis, Evelyn’s document review. These should quickly lead to visible consequences.
+
+Opening surface protection:
+The story must preserve Emergency Room Erasure as the opening surface. Do not replace it with a banquet, award ceremony, or press event.
+
+Principle for Stage 03:
+Every surface must come from medical pressure, hospital hierarchy, patient data, or diagnostic proof.
+
+==================================================
+12. PACING RISK CHECK
+==================================================
+
+1. Does any part feel too setup-heavy?
+Part 7 risks becoming proof-preparation heavy. Add a visible expert contradiction or hospital panic beat.
+
+2. Does any part lack visible payoff?
+Part 3 could become too quiet. Ensure Evelyn’s recognition creates a small but clear status shift.
+
+3. Are there too many similar payoffs?
+Medical proof repeats, but each layer differs: terminology, symptoms, treatment failure, timestamp proof.
+
+4. Is antagonist inactive anywhere?
+No. Lucien escalates every part through acceptance, suppression, bluffing, treatment control, framing, public challenge, and denial.
+
+5. Does betrayer regret too early?
+No. Clara does not truly regret until late. Early stages are arrogance, irritation, denial, and fear.
+
+6. Is protagonist too passive?
+Risk in Parts 2–3. His active proof preservation and clinical predictions must be clear.
+
+7. Is true ally underused?
+Potential risk. Evelyn must appear meaningfully from Part 3 onward.
+
+8. Is hidden card revealed too early?
+No, if full timestamp proof is saved for Part 9.
+
+9. Is final collapse prepared?
+Yes. Repeat-case logic, Lucien’s claim, hospital record tampering, and Evelyn’s validation all prepare it.
+
+10. Does outline support 120,000–130,000 characters?
+Yes. It has enough escalation layers: emergency, suppression, ally recognition, second case, midpoint failure, counterattack, proof alignment, public trap, final collapse.
+
+Correction notes:
+Compress repetitive hospital politics. Expand patient-risk scenes, expert testing, and public proof moments.
+
+==================================================
+13. 02 MACRO OUTLINE FINAL DECISION
+==================================================
+
+A. APPROVED FOR 03 SCENE CARDS.
+
+Reason:
+The 9-part macro outline is varied, logical, and ready for scene-level development. It preserves the locked medical premise, keeps proof visual, delays regret properly, and prepares a strong final collapse.
+
+==================================================
+14. HANDOFF PACKAGE TO 03 SCENE CARDS
+==================================================
+
+9-part macro outline summary:
+Part 1: Emergency erasure.  
+Part 2: Hospital suppression.  
+Part 3: True ally recognition.  
+Part 4: Second poison case.  
+Part 5: Midpoint medical failure.  
+Part 6: Enemy counterattack and ethical cost.  
+Part 7: Proof alignment.  
+Part 8: Public treatment trap.  
+Part 9: Final proof and restored dignity.
+
+Target character count per part:
+Part 1: 14,000–15,500.  
+Part 2: 12,500–13,500.  
+Part 3: 12,500–13,500.  
+Part 4: 13,500–14,500.  
+Part 5: 14,000–15,500.  
+Part 6: 13,000–14,000.  
+Part 7: 12,500–13,500.  
+Part 8: 14,000–15,500.  
+Part 9: 15,000–16,500.
+
+Part function list:
+Hook, suppression, recognition, repeat-case, midpoint failure, counterattack, proof alignment, final trap, final collapse.
+
+Public payoff map:
+Use varied payoffs: viewer superiority, technical crack, ally recognition, symptom prediction, medical failure, ethical contrast, expert contradiction, public competence collapse, final systemic proof.
+
+Regret movement map:
+Clara moves from arrogance to irritation, doubt, denial, fear, moral discomfort, proof shock, panic, bargaining, and rejection.
+
+Antagonist escalation map:
+Lucien accepts false credit, suppresses Adrian, bluffs experts, takes second case, fails treatment, frames Adrian, accepts public panel, self-destructs, and collapses.
+
+Protagonist control map:
+Adrian appears to lose credit, love, access, reputation, and safety, but gains proof, expert recognition, enemy commitments, and final public authority.
+
+Hidden card map:
+Antidote timing, record alteration, Lucien’s inability to repeat the cure.
+
+Face-slap variation plan:
+Professional, institutional, medical, romantic, reputation, final systemic.
+
+Scene surface guidance:
+Use medical and institutional surfaces: ER, labs, corridors, review rooms, VIP treatment spaces, monitor stations, public medical panel. Avoid generic luxury/revenge surfaces.
+
+Surfaces to avoid by default:
+Gala, red carpet, banquet, luxury party, repeated committee rooms, generic press-only reveal.
+
+Main risks for 03 SCENE CARDS:
+Do not overuse hospital offices. Do not make all proof private. Do not reveal the timestamp chain early. Do not make Clara regret too soon. Do not make Lucien foolish too early.
+
+Key rule for next stage:
+Every scene card must have a clear dramatic function, visible proof/payoff, and surface derived from medical pressure or hospital hierarchy.

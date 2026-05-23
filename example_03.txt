@@ -1,0 +1,2044 @@
+вот пример ответа для 03 SCENE CARDS. Важно: полный реальный ответ этого этапа может быть огромным, потому что там обычно 45–60 сцен. Поэтому пример ниже показывает структуру, глубину и формат, но сам сюжет/медицинская тема/названия сцен нельзя копировать.
+
+Сначала вставь этот блок:
+
+==================================================
+IMPORTANT: HOW TO USE THE EXAMPLE RESPONSE
+==================================================
+
+Below is an example of how a 03 SCENE CARDS answer should look.
+
+This example is NOT a story template.
+Do not copy its plot, names, medical setting, scene surfaces, proof objects, character dynamics, or exact scene events.
+
+The example only demonstrates:
+- the required structure;
+- the level of detail;
+- how to turn a macro outline into scene cards;
+- how to check opening originality;
+- how to vary scene surfaces;
+- how to track payoff, regret, panic, proof, and protagonist control;
+- how to prepare a clean handoff to 04 FINAL SCRIPT.
+
+In a real project, the model should create the full required scene count, usually 45–60 scenes across all 9 parts.
+
+This example may use a shorter scene count for demonstration, but the real output must follow the project’s required scene strategy.
+
+Do not answer with:
+- “Understood”;
+- “Looks good”;
+- a short summary;
+- final script prose;
+- full dialogue.
+
+You must output a full 03 SCENE CARDS report using all required sections.
+
+Follow the structure and depth of this example.
+Do not copy its story content.
+
+А вот сам пример ответа:
+
+==================================================
+EXAMPLE 03 SCENE CARDS RESPONSE
+==================================================
+
+PROJECT USED FOR THIS EXAMPLE:
+
+A poor hospital resident secretly saves the mayor’s daughter by identifying a rare poison, but the hospital director gives all credit to a celebrity surgeon. The protagonist’s fiancée leaves him for the celebrity doctor because she believes fame and medical status prove real value. The protagonist secretly kept the diagnostic logs and knows the “miracle doctor” cannot repeat the treatment.
+
+==================================================
+1. 02 HANDOFF RECAP
+==================================================
+
+9-part macro outline summary:
+
+Part 1:
+Emergency Room Erasure. Adrian saves the mayor’s daughter, but Lucien receives credit.
+
+Part 2:
+Hospital Suppression. Adrian is removed from VIP cases while Lucien’s first technical crack appears.
+
+Part 3:
+True Ally Recognition. Evelyn begins testing Adrian’s reasoning and suspects the official story is false.
+
+Part 4:
+Second Poison Case. A similar patient appears, and Lucien takes control despite not understanding the poison.
+
+Part 5:
+Midpoint Medical Failure. Lucien’s treatment worsens the patient, and Adrian’s warning proves correct.
+
+Part 6:
+Enemy Counterattack. Lucien and hospital leadership try to frame Adrian as unethical.
+
+Part 7:
+Proof Alignment. Evelyn verifies contradictions while the hospital tries to block access.
+
+Part 8:
+Public Treatment Trap. Lucien fails under public expert pressure, and Adrian must intervene.
+
+Part 9:
+Final Proof and Restored Dignity. Adrian saves the patient, proof becomes public, Lucien collapses, and Clara is rejected.
+
+Target character count per part:
+
+Part 1: 14,000–15,500.  
+Part 2: 12,500–13,500.  
+Part 3: 12,500–13,500.  
+Part 4: 13,500–14,500.  
+Part 5: 14,000–15,500.  
+Part 6: 13,000–14,000.  
+Part 7: 12,500–13,500.  
+Part 8: 14,000–15,500.  
+Part 9: 15,000–16,500.
+
+Part function list:
+Hook, suppression, recognition, repeat-case, midpoint failure, counterattack, proof alignment, final trap, final collapse.
+
+Public payoff map summary:
+Payoffs must vary across medical proof, professional exposure, institutional pressure, romantic regret, expert validation, and final systemic reveal.
+
+Regret movement map summary:
+Clara moves from arrogance → irritation → doubt → denial → fear → moral discomfort → proof shock → panic → bargaining and rejection.
+
+Antagonist escalation map summary:
+Lucien accepts false credit → suppresses Adrian → bluffs experts → takes the second case → fails treatment → frames Adrian → accepts public panel → self-destructs.
+
+Protagonist control map summary:
+Adrian appears to lose credit, love, access, and reputation, but gains proof, expert attention, enemy commitments, and final public authority.
+
+Hidden card map summary:
+Hidden Card 1: Adrian ordered the antidote first.  
+Hidden Card 2: Hospital altered the official record.  
+Hidden Card 3: Lucien cannot repeat the cure.
+
+Face-slap variation plan:
+Professional, institutional, medical, romantic, reputation, and final systemic face-slaps.
+
+Scene surface guidance:
+Use ER, toxicology lab, hospital corridor, VIP diagnostic room, monitor station, review archive, public medical panel, recovery ward.
+
+Surfaces to avoid by default:
+Gala, red carpet, luxury party, repeated committee rooms, generic press-only halls.
+
+Key rule for this stage:
+Every scene card must have a clear dramatic function, visible proof/payoff, and a surface derived from medical pressure or hospital hierarchy.
+
+==================================================
+2. TOTAL SCENE STRATEGY
+==================================================
+
+Total scene count:
+49 scenes.
+
+Reason:
+The story target is 120,000–130,000 characters, so the scene matrix needs enough beats for long-form escalation without filler.
+
+Scene distribution:
+
+| Part | Target Characters | Scene Count | Reason |
+|---|---:|---:|---|
+| Part 1 | 14,000–15,500 | 6 | High-impact hook, emergency, stolen credit, Clara’s first choice, hidden proof. |
+| Part 2 | 12,500–13,500 | 5 | Suppression and first crack; should stay efficient. |
+| Part 3 | 12,500–13,500 | 5 | Ally recognition and proof logic; medium pacing. |
+| Part 4 | 13,500–14,500 | 5 | Second case starts; needs tension but not full collapse. |
+| Part 5 | 14,000–15,500 | 6 | Midpoint failure and medical danger; high drama weight. |
+| Part 6 | 13,000–14,000 | 5 | Counterattack and ethical cost; pressure-focused. |
+| Part 7 | 12,500–13,500 | 5 | Proof alignment; must avoid becoming too private. |
+| Part 8 | 14,000–15,500 | 6 | Final trap and live public pressure; high drama. |
+| Part 9 | 15,000–16,500 | 6 | Full reveal, consequences, rejection, restored dignity. |
+
+High-drama parts with more scenes:
+Parts 1, 5, 8, and 9.
+
+Compressed parts:
+Parts 2, 3, 4, 6, and 7 should avoid filler and repeated hospital-office scenes.
+
+==================================================
+3. OPENING SURFACE ORIGINALITY CHECK
+==================================================
+
+Selected opening surface:
+Emergency resuscitation room.
+
+First visual image:
+Adrian’s gloved hand writes the antidote dosage while the patient monitor screams.
+
+First public witness group:
+Nurses, residents, hospital director, mayor’s security team.
+
+First humiliation method:
+Adrian saves the patient, then is removed from the official record.
+
+First proof symbol:
+Treatment board, antidote order, monitor stabilization.
+
+First hidden clue:
+Lucien arrives after stabilization but accepts credit for the treatment.
+
+Similarity risk:
+Low.
+
+Why it does not repeat generic gala/red carpet/camera-flash openings:
+The opening is built from medical pressure, emergency action, patient survival, and treatment records. It does not use elite-party spectacle, luxury entrances, or generic public betrayal choreography.
+
+Opening decision:
+PASSED — SCENE CARDS CAN CONTINUE.
+
+==================================================
+4. SCENE SURFACE DIVERSITY PLAN
+==================================================
+
+Main surfaces:
+
+Emergency resuscitation room:
+Appears in Part 1.  
+Fits because the story begins with real medical competence under pressure.  
+Function: prove Adrian’s skill before erasure.
+
+Hospital corridor:
+Appears in Parts 1, 2, 6, 9.  
+Function: social pressure, Clara conflict, institutional movement.  
+Risk: can become repetitive if every confrontation happens here.  
+Prevention: use corridor scenes only for transitions or short emotional pressure.
+
+Treatment board / nurse station:
+Appears in Parts 1, 2, 9.  
+Function: visual proof of name replacement and later reversal.
+
+Toxicology lab:
+Appears in Parts 3, 7.  
+Function: expert recognition and proof verification.  
+Risk: too private.  
+Prevention: connect each lab discovery to a public consequence.
+
+VIP diagnostic suite:
+Appears in Part 4.  
+Function: second case begins under elite pressure.
+
+Monitor station:
+Appears in Parts 4, 5, 8.  
+Function: visual patient proof; monitor data shows truth.
+
+Hospital review archive:
+Appears in Part 7.  
+Function: hidden cards align through records and access logs.
+
+Public medical panel:
+Appears in Parts 8–9.  
+Function: final trap and public proof.
+
+Recovery ward:
+Appears in Part 9.  
+Function: aftermath, consequences, restored dignity.
+
+Diversity check:
+No surface dominates the whole story. Hospital setting remains consistent, but scenes shift between emergency, proof, hierarchy, public review, and aftermath.
+
+==================================================
+5. COMPLETE SCENE CARDS BY PART
+==================================================
+
+==================================================
+PART 1 — THE MIRACLE STOLEN IN THE EMERGENCY ROOM
+Target character range:
+14,000–15,500.
+
+Scene count:
+6.
+
+Part function:
+Show Adrian saving a life, then create the core injustice by transferring his miracle to Lucien.
+
+Part-level payoff:
+Viewer sees Adrian is the true savior before the public does.
+
+Part-level hidden card movement:
+Antidote timing is planted.
+
+Part-level regret movement:
+Clara begins in arrogance and social ambition.
+
+Part-level ending hook:
+Lucien misnames the toxin, proving he cannot repeat the miracle.
+==================================================
+
+SCENE 1.1 — The Antidote Before the Title
+
+Part:
+Part 1.
+
+Estimated final script length:
+2,300–2,700 characters.
+
+Scene surface:
+Emergency resuscitation room.
+
+Scene function:
+Open with immediate medical pressure and prove Adrian’s competence before any exposition.
+
+Starting state:
+The mayor’s daughter is crashing. Senior doctors are arguing over the wrong cause. Adrian is low-status but observant.
+
+Characters present:
+Adrian, nurses, senior doctors, hospital director, mayor’s security team, unconscious VIP patient.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Identify the toxin pattern and stop the wrong treatment before the patient dies.
+
+Antagonist / pressure objective:
+The senior doctors want to follow standard protocol and silence the resident.
+
+Main conflict:
+Adrian sees that standard treatment will kill the patient faster, but he has no authority.
+
+What happens:
+Adrian notices three symptoms the senior doctors dismiss, writes the antidote dosage, and forces a nurse to check the blood curve again.
+
+Proof / hidden card movement:
+First hint of Hidden Card 1: Adrian ordered the correct antidote before Lucien enters.
+
+Public / visible payoff:
+The patient monitor begins stabilizing after Adrian’s instruction.
+
+Status shift:
+Adrian secretly gains viewer respect. Publicly, he still has no status.
+
+Regret movement:
+None yet. Clara is not in the room or only arrives at the end.
+
+Antagonist movement:
+Lucien absent. Institution pressure begins through senior doctors.
+
+Protagonist control movement:
+Adrian appears powerless but proves he sees what others miss.
+
+True ally movement:
+Absent.
+
+Cost / consequence:
+Adrian risks disciplinary action by overriding senior staff.
+
+Dialogue function:
+Short urgent medical commands only.
+
+What must NOT become long dialogue:
+Do not explain the whole poison mechanism here. Show urgency through monitor changes and treatment reactions.
+
+Visual proof / image:
+Adrian’s gloved finger underlining the antidote dosage while the monitor alarm shifts rhythm.
+
+Sound / atmosphere note:
+Monitor beeps, oxygen hiss, nurse shoes on tile.
+
+Exit hook:
+The monitor stabilizes seconds before Lucien enters the hospital wing.
+
+Repetition risk:
+Could become generic “genius doctor saves patient.”
+
+Prevention note:
+Keep focus on low status, ignored warning, and planted timestamp proof.
+
+---
+
+SCENE 1.2 — The Celebrity Arrives After the Miracle
+
+Part:
+Part 1.
+
+Estimated final script length:
+2,000–2,400 characters.
+
+Scene surface:
+Emergency room threshold / hospital corridor outside resuscitation room.
+
+Scene function:
+Introduce Lucien as a polished public mask who receives the emotional credit after the real work is done.
+
+Starting state:
+The patient is stable. Staff are shaken. Adrian is exhausted.
+
+Characters present:
+Adrian, Lucien, hospital director, nurses, mayor’s aide, Clara entering late.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Confirm the patient remains stable and understand why Lucien arrived late.
+
+Antagonist / pressure objective:
+Lucien wants to appear as the calm savior in front of witnesses.
+
+Main conflict:
+Lucien steps into the aftermath and allows everyone to believe he led the rescue.
+
+What happens:
+The director guides Lucien toward the mayor’s aide, introduces him as the doctor who saved the patient, and moves Adrian aside.
+
+Proof / hidden card movement:
+The public record begins diverging from reality.
+
+Public / visible payoff:
+Viewer sees the injustice clearly: the person who arrived late receives praise.
+
+Status shift:
+Lucien gains public authority. Adrian is pushed into background.
+
+Regret movement:
+Clara sees Lucien being praised and begins associating him with success.
+
+Antagonist movement:
+Lucien accepts credit without correcting the director.
+
+Protagonist control movement:
+Adrian sees Lucien choose the lie.
+
+True ally movement:
+Absent.
+
+Cost / consequence:
+The false savior identity begins.
+
+Dialogue function:
+Lucien’s lines should be polished but slightly vague.
+
+What must NOT become long dialogue:
+Do not let Lucien monologue about saving the patient. His confidence should come from silence and positioning.
+
+Visual proof / image:
+Lucien’s clean white coat beside Adrian’s blood-stained gloves.
+
+Sound / atmosphere note:
+Emergency alarms fade into camera-like phone clicks from hospital staff.
+
+Exit hook:
+The director asks who wrote the antidote order, and before Adrian can answer, he says Lucien’s name.
+
+---
+
+SCENE 1.3 — The Name on the Treatment Board
+
+Part:
+Part 1.
+
+Estimated final script length:
+2,300–2,700 characters.
+
+Scene surface:
+Nurse station / treatment board.
+
+Scene function:
+Turn stolen credit into a visual object.
+
+Starting state:
+The emergency is over. The hospital is preparing the official record.
+
+Characters present:
+Adrian, Clara, hospital director, charge nurse, Lucien nearby.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Protect the accuracy of the treatment record.
+
+Antagonist / pressure objective:
+The director wants the official story to support Lucien.
+
+Main conflict:
+Adrian’s name is replaced before the record becomes public.
+
+What happens:
+Clara is instructed to update the visible treatment board. She hesitates, then writes Lucien’s name where Adrian’s should be.
+
+Proof / hidden card movement:
+Hidden Card 2 is hinted: the record is being altered.
+
+Public / visible payoff:
+The betrayal becomes visual: Clara’s hand writes the wrong name.
+
+Status shift:
+Lucien’s status becomes institutional. Adrian’s contribution disappears.
+
+Regret movement:
+Clara chooses institutional approval over Adrian.
+
+Antagonist movement:
+Hospital leadership actively supports the lie.
+
+Protagonist control movement:
+Adrian watches who changes the record and remembers it.
+
+True ally movement:
+Absent.
+
+Cost / consequence:
+Adrian’s emotional wound deepens.
+
+Dialogue function:
+Clara should justify it with career logic, not cartoon cruelty.
+
+What must NOT become long dialogue:
+No long argument about love. The action of changing the name carries the betrayal.
+
+Visual proof / image:
+Clara’s marker crossing the treatment board under “Primary Physician.”
+
+Sound / atmosphere note:
+Marker squeak over the fading monitor sound.
+
+Exit hook:
+Adrian sees the timestamp on the digital order still showing his ID.
+
+---
+
+SCENE 1.4 — Clara Chooses the Miracle Doctor
+
+Part:
+Part 1.
+
+Estimated final script length:
+2,300–2,700 characters.
+
+Scene surface:
+Hospital family briefing room.
+
+Scene function:
+Create romantic betrayal through status choice.
+
+Starting state:
+Mayor’s family wants to thank the doctor. Lucien is presented as savior. Adrian is told to stay outside.
+
+Characters present:
+Adrian, Clara, Lucien, mayor’s aide, hospital director, VIP family.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Keep composure while realizing Clara is choosing the false narrative.
+
+Antagonist / pressure objective:
+Lucien wants Clara’s support to make his identity emotionally believable.
+
+Main conflict:
+Clara publicly stands beside Lucien and thanks him for saving the patient.
+
+What happens:
+Clara introduces Lucien as “the doctor who did what no one else could,” while Adrian watches through the glass.
+
+Proof / hidden card movement:
+Clara’s public statement becomes future regret fuel.
+
+Public / visible payoff:
+Viewer sees her wrong choice in a clean, painful way.
+
+Status shift:
+Clara socially rises beside Lucien. Adrian is isolated.
+
+Regret movement:
+Arrogance begins.
+
+Antagonist movement:
+Lucien gains romantic/social validation.
+
+Protagonist control movement:
+Adrian learns Clara will follow status, not truth.
+
+True ally movement:
+Absent.
+
+Cost / consequence:
+Adrian loses emotional trust.
+
+Dialogue function:
+Clara’s line should show belief in visible success, not pure malice.
+
+What must NOT become long dialogue:
+Avoid a long breakup speech here. Keep betrayal clean and visual.
+
+Visual proof / image:
+Clara standing beside Lucien while Adrian’s reflection appears in the briefing-room glass.
+
+Sound / atmosphere note:
+Muted applause through glass.
+
+Exit hook:
+Lucien looks at Adrian and gives a small nod, as if accepting both the credit and the woman.
+
+---
+
+SCENE 1.5 — The Wrong Toxin Name
+
+Part:
+Part 1.
+
+Estimated final script length:
+2,100–2,500 characters.
+
+Scene surface:
+Hospital hallway near VIP elevators.
+
+Scene function:
+Plant first professional crack in Lucien’s false identity.
+
+Starting state:
+Lucien is praised. Adrian is being pushed away from the VIP wing.
+
+Characters present:
+Adrian, Lucien, Clara, hospital director, mayor’s aide.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Observe whether Lucien actually understands the case.
+
+Antagonist / pressure objective:
+Lucien wants to sound authoritative in front of the mayor’s aide.
+
+Main conflict:
+Lucien gives a polished explanation but misnames the toxin class.
+
+What happens:
+Lucien describes the poison incorrectly. Everyone nods because he sounds confident. Adrian freezes for half a second.
+
+Proof / hidden card movement:
+Hidden Card 3 is hinted: Lucien cannot repeat the cure.
+
+Public / visible payoff:
+Small viewer payoff: the fake savior makes a mistake only the real doctor catches.
+
+Status shift:
+Lucien appears stronger publicly but weaker to the viewer.
+
+Regret movement:
+Clara does not notice yet.
+
+Antagonist movement:
+Lucien’s ego grows.
+
+Protagonist control movement:
+Adrian realizes the lie has a built-in weakness.
+
+True ally movement:
+Absent.
+
+Cost / consequence:
+Adrian cannot expose it yet without looking bitter.
+
+Dialogue function:
+Lucien’s mistake must be short and specific.
+
+What must NOT become long dialogue:
+Do not explain all toxicology here. Let Adrian’s reaction signal importance.
+
+Visual proof / image:
+Adrian looking from Lucien’s smile to the blood curve printout in his hand.
+
+Sound / atmosphere note:
+VIP elevator chime.
+
+Exit hook:
+Adrian quietly folds the blood curve and keeps it.
+
+---
+
+SCENE 1.6 — The Lie Becomes a Trap
+
+Part:
+Part 1.
+
+Estimated final script length:
+2,200–2,600 characters.
+
+Scene surface:
+Empty hospital stairwell / staff exit.
+
+Scene function:
+End Part 1 with Adrian’s controlled realization and forward momentum.
+
+Starting state:
+Adrian has been erased from public credit and emotionally betrayed.
+
+Characters present:
+Adrian alone, possibly one nurse briefly.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Process the injustice and decide not to explode.
+
+Antagonist / pressure objective:
+Institutional pressure wants him silent and invisible.
+
+Main conflict:
+Adrian wants to speak, but speaking now would destroy his credibility.
+
+What happens:
+Adrian checks the order timestamp, sees his ID tied to the antidote, and realizes the hospital’s lie depends on Lucien being able to repeat something he does not understand.
+
+Proof / hidden card movement:
+Hidden Card 1 stays private but becomes Adrian’s future weapon.
+
+Public / visible payoff:
+Internal payoff: the viewer understands Adrian is not defeated; he is watching.
+
+Status shift:
+Publicly Adrian loses. Strategically he gains a trap.
+
+Regret movement:
+Clara absent.
+
+Antagonist movement:
+Lucien’s false identity expands offscreen.
+
+Protagonist control movement:
+Adrian chooses restraint as strategy.
+
+True ally movement:
+Absent.
+
+Cost / consequence:
+He accepts temporary humiliation.
+
+Dialogue function:
+Minimal internal statement, not dramatic revenge speech.
+
+What must NOT become long dialogue:
+Do not make him swear revenge for paragraphs.
+
+Visual proof / image:
+The screen showing Adrian’s ID beside the antidote order.
+
+Sound / atmosphere note:
+Distant hospital announcement calling Lucien the miracle doctor.
+
+Exit hook:
+Adrian hears Lucien’s name over the speakers and realizes the same announcement may later bury him.
+
+==================================================
+PART 2 — THE HOSPITAL BURIES THE REAL DOCTOR
+Target character range:
+12,500–13,500.
+
+Scene count:
+5.
+
+Part function:
+Show institutional suppression and first crack in Lucien’s miracle identity.
+
+Part-level payoff:
+Lucien makes a technical mistake, and Adrian quietly preserves suppression proof.
+
+Part-level hidden card movement:
+Record tampering and access denial are hinted.
+
+Part-level regret movement:
+Clara moves from arrogance to irritation.
+
+Part-level ending hook:
+A true expert notices the inconsistency.
+==================================================
+
+SCENE 2.1 — The New Rotation List
+
+Estimated final script length:
+2,300–2,600 characters.
+
+Scene surface:
+Resident notice board / staff corridor.
+
+Scene function:
+Show institutional punishment.
+
+Starting state:
+Adrian arrives for shift after the emergency.
+
+Characters present:
+Adrian, residents, Clara, administrator.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Confirm whether the hospital has changed his status.
+
+Antagonist / pressure objective:
+Hospital wants him away from VIP cases.
+
+Main conflict:
+Adrian sees his name removed from critical-care rotation.
+
+What happens:
+Residents whisper. Clara tells him not to make trouble. The administrator calls it a “temporary reassignment.”
+
+Proof / hidden card movement:
+Hidden Card 2 grows: suppression leaves paper trail.
+
+Public / visible payoff:
+The viewer sees the institution fear him enough to move him.
+
+Status shift:
+Adrian loses access publicly but gains evidence.
+
+Regret movement:
+Clara irritation: his calmness annoys her.
+
+Antagonist movement:
+Hospital escalates.
+
+Protagonist control movement:
+He notes who signed the reassignment.
+
+True ally movement:
+Absent.
+
+Cost / consequence:
+Adrian loses patient access.
+
+Dialogue function:
+Short institutional language.
+
+What must NOT become long dialogue:
+No long HR explanation. Use the posted list as visual proof.
+
+Visual proof / image:
+Adrian’s name moved from “Critical Care” to “Records Overflow.”
+
+Exit hook:
+The list shows the change was approved minutes after Lucien’s press note.
+
+---
+
+SCENE 2.2 — Lucien’s First Interview
+
+Estimated final script length:
+2,500–2,900 characters.
+
+Scene surface:
+Hospital media corner / internal broadcast screen.
+
+Scene function:
+Show Lucien enjoying false fame while planting technical inconsistency.
+
+Starting state:
+Lucien is being interviewed as the miracle doctor.
+
+Characters present:
+Adrian, Clara, Lucien on screen, nurses, residents.
+
+POV focus:
+Adrian watching broadcast.
+
+Protagonist objective:
+Observe Lucien’s explanation.
+
+Antagonist / pressure objective:
+Lucien wants to strengthen his public identity.
+
+Main conflict:
+He sounds confident but describes the mechanism wrong.
+
+What happens:
+Lucien explains the rescue with vague brilliance. Adrian catches a toxin-class error. Clara praises Lucien’s composure.
+
+Proof / hidden card movement:
+Hidden Card 3 stronger: Lucien lacks real understanding.
+
+Public / visible payoff:
+Viewer gets first clear professional crack.
+
+Status shift:
+Lucien rises publicly, but loses credibility in viewer’s eyes.
+
+Regret movement:
+Clara still arrogant, but Adrian’s silence unsettles her.
+
+Antagonist movement:
+Lucien gains confidence.
+
+Protagonist control movement:
+Adrian stores the recording.
+
+True ally movement:
+Possible offscreen: Evelyn’s department also receives the interview.
+
+Cost / consequence:
+Adrian cannot correct him publicly.
+
+Dialogue function:
+Lucien’s wrong phrase must be precise.
+
+What must NOT become long dialogue:
+No lecture on poison.
+
+Visual proof / image:
+Lucien’s face on screen beside Adrian’s folded blood curve.
+
+Exit hook:
+Adrian sees the same wrong term appear in the official case summary.
+
+---
+
+SCENE 2.3 — The Locked Lab Door
+
+Estimated final script length:
+2,400–2,700 characters.
+
+Scene surface:
+Toxicology lab entrance.
+
+Scene function:
+Turn suppression into access-control proof.
+
+Starting state:
+Adrian tries to verify sample records.
+
+Characters present:
+Adrian, lab technician, security, Clara briefly.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Check whether original samples remain intact.
+
+Antagonist / pressure objective:
+Hospital wants to block him from proof.
+
+Main conflict:
+His ID badge flashes red.
+
+What happens:
+Security says his lab access has been suspended. Clara suggests he accept the reassignment quietly.
+
+Proof / hidden card movement:
+Access denial becomes future evidence.
+
+Public / visible payoff:
+The viewer sees the hospital confirming its own fear.
+
+Status shift:
+Adrian loses access; hospital exposes suppression.
+
+Regret movement:
+Clara rationalizes the lockout as “procedure.”
+
+Antagonist movement:
+Institution tightens control.
+
+Protagonist control movement:
+Adrian notices the denial code and timestamp.
+
+True ally movement:
+Lab technician may show discomfort.
+
+Cost / consequence:
+He loses direct access to samples.
+
+Dialogue function:
+Short bureaucratic refusal.
+
+What must NOT become long dialogue:
+No argument with security.
+
+Visual proof / image:
+Red badge light reflected on Adrian’s face.
+
+Exit hook:
+Adrian remembers one sample was automatically backed up in the external toxicology archive.
+
+---
+
+SCENE 2.4 — Clara Calls Him Jealous
+
+Estimated final script length:
+2,300–2,600 characters.
+
+Scene surface:
+Quiet hospital corridor near staff lockers.
+
+Scene function:
+Advance romantic betrayal and clarify Clara’s false belief.
+
+Starting state:
+Clara confronts Adrian after the access denial.
+
+Characters present:
+Adrian, Clara.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Understand whether Clara chose Lucien knowingly or blindly.
+
+Antagonist / pressure objective:
+Clara wants Adrian to accept the official hierarchy.
+
+Main conflict:
+She says Adrian is hurting his future by resisting Lucien’s success.
+
+What happens:
+Clara frames Adrian as bitter and tells him Lucien has what Adrian never had: presence, trust, recognition.
+
+Proof / hidden card movement:
+No new proof, but her moral position locks.
+
+Public / visible payoff:
+Emotional payoff: viewer sees her choice is not confusion; it is value judgment.
+
+Status shift:
+Clara claims higher ground. Adrian refuses to beg.
+
+Regret movement:
+Irritation.
+
+Antagonist movement:
+Lucien absent but socially strengthened through Clara.
+
+Protagonist control movement:
+Adrian realizes she will need proof, not words.
+
+True ally movement:
+Absent.
+
+Cost / consequence:
+Romantic relationship breaks deeper.
+
+Dialogue function:
+Short, sharp value conflict.
+
+What must NOT become long dialogue:
+No melodramatic breakup monologue.
+
+Visual proof / image:
+Clara’s hospital badge clipped beside a Lucien campaign ribbon.
+
+Exit hook:
+Adrian receives an unsigned message asking why the toxin classification in the report is wrong.
+
+---
+
+SCENE 2.5 — The External Question
+
+Estimated final script length:
+2,600–2,900 characters.
+
+Scene surface:
+Records overflow room / dim archive terminal.
+
+Scene function:
+Introduce the first sign of true ally recognition.
+
+Starting state:
+Adrian is isolated in a low-status records room.
+
+Characters present:
+Adrian, archive clerk, message from Evelyn.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Find out who noticed the inconsistency.
+
+Antagonist / pressure objective:
+Institution wants him buried in paperwork.
+
+Main conflict:
+A question from outside the hospital cuts through the official lie.
+
+What happens:
+Adrian sees a request from Dr. Evelyn Cross asking why the antidote used does not match Lucien’s stated toxin class.
+
+Proof / hidden card movement:
+Evelyn enters proof path. Hidden Card 3 is now externally noticed.
+
+Public / visible payoff:
+Viewer gets ally-recognition anticipation.
+
+Status shift:
+Adrian gains potential validation.
+
+Regret movement:
+Clara absent.
+
+Antagonist movement:
+Lucien does not know an expert has noticed.
+
+Protagonist control movement:
+Adrian sees the lie is not invisible.
+
+True ally movement:
+First notice.
+
+Cost / consequence:
+Replying could expose him; silence could waste the chance.
+
+Dialogue function:
+No dialogue needed; message carries scene.
+
+What must NOT become long dialogue:
+Do not over-explain Evelyn yet.
+
+Visual proof / image:
+External toxicology request blinking on an old archive monitor.
+
+Exit hook:
+Adrian types only one line: “Ask who ordered the antidote.”
+
+==================================================
+PART 3 — THE FIRST PERSON WHO SEES THE PATTERN
+Target character range:
+12,500–13,500.
+
+Scene count:
+5.
+
+Part function:
+Introduce Evelyn as functional ally and begin expert validation.
+
+Part-level payoff:
+A competent expert takes Adrian seriously.
+
+Part-level hidden card movement:
+Treatment logic becomes testable.
+
+Part-level regret movement:
+Clara denial.
+
+Part-level ending hook:
+Similar symptoms appear in another patient.
+==================================================
+
+SCENE 3.1 — Evelyn’s Question
+
+Estimated final script length:
+2,400–2,700 characters.
+
+Scene surface:
+External toxicology video review / hospital side terminal.
+
+Scene function:
+Let Evelyn test Adrian without handing him easy validation.
+
+Starting state:
+Adrian is still low-status and under watch.
+
+Characters present:
+Adrian, Evelyn through secure call, archive clerk nearby.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Answer enough to show truth without violating patient privacy.
+
+Antagonist / pressure objective:
+Hospital monitoring systems limit what he can share.
+
+Main conflict:
+Evelyn asks precise questions that only the real diagnostic mind can answer.
+
+What happens:
+Adrian explains why the antidote had to be administered before the second symptom spike. Evelyn notices he is not guessing.
+
+Proof / hidden card movement:
+Treatment logic partially confirmed.
+
+Public / visible payoff:
+Expert recognition begins.
+
+Status shift:
+Adrian gains private credibility.
+
+Regret movement:
+Clara absent.
+
+Antagonist movement:
+Lucien unaware.
+
+Protagonist control movement:
+Adrian reveals logic, not full records.
+
+True ally movement:
+First test.
+
+Cost / consequence:
+If monitored, the call could be used against him.
+
+Dialogue function:
+Technical but short; questions and answers must feel sharp.
+
+What must NOT become long dialogue:
+Do not turn into a lecture.
+
+Visual proof / image:
+Evelyn’s cursor circling the same blood-curve spike Adrian marked.
+
+Exit hook:
+Evelyn asks why Lucien never mentioned the spike.
+
+---
+
+SCENE 3.2 — Lucien Performs Confidence
+
+Estimated final script length:
+2,300–2,600 characters.
+
+Scene surface:
+VIP consultation hallway / glass-walled office.
+
+Scene function:
+Contrast Lucien’s public confidence with technical weakness.
+
+Starting state:
+Lucien is preparing for a donor medical briefing.
+
+Characters present:
+Lucien, Clara, director, Adrian passing by.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Observe Lucien under light professional pressure.
+
+Antagonist objective:
+Lucien wants to look untouchable.
+
+Main conflict:
+A donor asks a technical follow-up, and Lucien dodges with charm.
+
+What happens:
+Lucien gives a vague answer. Clara applauds socially, but notices Adrian’s expression.
+
+Proof / hidden card movement:
+Another inconsistency accumulates.
+
+Public / visible payoff:
+Viewer sees performance medicine replacing competence.
+
+Status shift:
+Lucien still wins socially, but cracks intellectually.
+
+Regret movement:
+Clara denial starts.
+
+Antagonist movement:
+Lucien senses Adrian watching.
+
+Protagonist control movement:
+Adrian collects another public inconsistency.
+
+True ally movement:
+Evelyn absent but her questions echo in Adrian’s mind.
+
+Cost / consequence:
+Lucien becomes suspicious.
+
+Dialogue function:
+Lucien’s answer should be smooth but empty.
+
+What must NOT become long dialogue:
+No full donor meeting.
+
+Visual proof / image:
+Lucien’s smile reflected in glass while Adrian watches the medical chart behind him.
+
+Exit hook:
+Lucien tells the director Adrian should be kept away from expert visitors.
+
+---
+
+SCENE 3.3 — The First Direct Test
+
+Estimated final script length:
+2,600–2,900 characters.
+
+Scene surface:
+Small toxicology workroom.
+
+Scene function:
+Move Evelyn from curiosity to suspicion.
+
+Starting state:
+Evelyn has arranged a limited professional review.
+
+Characters present:
+Adrian, Evelyn, maybe one neutral lab assistant.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Prove competence without sounding like he wants revenge.
+
+Antagonist / pressure objective:
+Professional rules limit what Evelyn can confirm.
+
+Main conflict:
+Evelyn tests whether Adrian’s knowledge is real or memorized.
+
+What happens:
+She gives him a hypothetical variation of the poison. Adrian identifies the risk Lucien would miss.
+
+Proof / hidden card movement:
+Adrian’s competence is confirmed privately.
+
+Public / visible payoff:
+Ally recognition payoff.
+
+Status shift:
+Adrian gains one true witness.
+
+Regret movement:
+Clara absent.
+
+Antagonist movement:
+Lucien indirectly threatened.
+
+Protagonist control movement:
+Adrian gains a professional path to proof.
+
+True ally movement:
+First suspicion becomes serious.
+
+Cost / consequence:
+Evelyn warns that without authorized records, public accusation will fail.
+
+Dialogue function:
+Diagnostic test, short and focused.
+
+What must NOT become long dialogue:
+Avoid emotional exposition.
+
+Visual proof / image:
+Evelyn silently sliding a blank case sheet across the table.
+
+Exit hook:
+A hospital alert interrupts: another patient has matching early symptoms.
+
+---
+
+SCENE 3.4 — Clara Sees Evelyn Notice Him
+
+Estimated final script length:
+2,300–2,600 characters.
+
+Scene surface:
+Hospital corridor outside toxicology workroom.
+
+Scene function:
+Create first jealousy/doubt seed.
+
+Starting state:
+Clara sees Adrian leaving a serious meeting with Evelyn.
+
+Characters present:
+Adrian, Clara, Evelyn briefly.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Avoid emotional confrontation.
+
+Antagonist / pressure objective:
+Clara wants to reduce Adrian’s new credibility.
+
+Main conflict:
+Clara asks why an external expert is speaking to him.
+
+What happens:
+Evelyn addresses Adrian with professional respect, then leaves. Clara tries to frame it as pity.
+
+Proof / hidden card movement:
+No proof revealed, but social perception shifts.
+
+Public / visible payoff:
+Clara sees someone competent treat Adrian seriously.
+
+Status shift:
+Adrian gains quiet status. Clara loses certainty.
+
+Regret movement:
+First doubt, hidden under denial.
+
+Antagonist movement:
+Lucien’s social hold weakens slightly.
+
+Protagonist control movement:
+Adrian refuses to explain himself to Clara.
+
+True ally movement:
+Evelyn contrasts with Clara.
+
+Cost / consequence:
+Clara may report the meeting to Lucien.
+
+Dialogue function:
+Short emotional tension.
+
+What must NOT become long dialogue:
+No apology, no confession.
+
+Visual proof / image:
+Evelyn’s respectful nod to Adrian while Clara watches.
+
+Exit hook:
+Clara calls Lucien and says Adrian is meeting outside experts.
+
+---
+
+SCENE 3.5 — Similar Symptoms
+
+Estimated final script length:
+2,500–2,800 characters.
+
+Scene surface:
+Emergency intake / monitor station.
+
+Scene function:
+End Part 3 by bringing the lie into a live test.
+
+Starting state:
+Hospital receives a new VIP-connected patient.
+
+Characters present:
+Adrian, nurses, Lucien, Clara, Evelyn possibly observing.
+
+POV focus:
+Adrian.
+
+Protagonist objective:
+Confirm whether symptoms match the original poison.
+
+Antagonist / pressure objective:
+Lucien wants to take control before Adrian can speak.
+
+Main conflict:
+The patient shows early signs that mirror the original case.
+
+What happens:
+Adrian sees the same delayed symptom pattern. Lucien dismisses it as unrelated and orders standard treatment.
+
+Proof / hidden card movement:
+Hidden Card 3 moves toward active test.
+
+Public / visible payoff:
+Viewer gets dread and anticipation: Lucien is about to face what he cannot handle.
+
+Status shift:
+Lucien appears in control. Adrian understands the danger.
+
+Regret movement:
+Clara notices Adrian’s expression but denies it.
+
+Antagonist movement:
+Lucien steps into competence arena.
+
+Protagonist control movement:
+Adrian sees the trap forming but patient safety creates urgency.
+
+True ally movement:
+Evelyn watches carefully.
+
+Cost / consequence:
+An innocent patient is at risk.
+
+Dialogue function:
+Urgent medical commands.
+
+What must NOT become long dialogue:
+Do not explain all symptoms; use monitor changes.
+
+Visual proof / image:
+The same blood-curve pattern appearing on a new patient monitor.
+
+Exit hook:
+Lucien orders the treatment Adrian knows will worsen the condition.
+
+==================================================
+PARTS 4–9 SCENE MATRIX SUMMARY
+==================================================
+
+NOTE FOR REAL OUTPUT:
+In an actual 03 SCENE CARDS response, Parts 4–9 must also be expanded with the same full scene-card detail as Parts 1–3 above.
+
+For demonstration, the remaining parts are summarized below to show continuation logic.
+
+==================================================
+PART 4 — THE SECOND POISON CASE
+Target character range:
+13,500–14,500.
+Scene count:
+5.
+==================================================
+
+Scene 4.1 — The Wrong Protocol Begins  
+Surface: VIP diagnostic suite.  
+Function: Lucien takes official control of the second case.  
+Payoff: Adrian predicts a symptom Lucien ignores.  
+Hidden card: repeat-case proof begins.  
+Exit hook: first negative treatment response.
+
+Scene 4.2 — Monitor Pattern Repeats  
+Surface: monitor station.  
+Function: visual confirmation that the second case mirrors the first.  
+Payoff: viewer sees Adrian is right again.  
+Regret: Clara’s first doubt.  
+Exit hook: Evelyn requests old-case comparison.
+
+Scene 4.3 — Adrian’s Warning Is Dismissed  
+Surface: treatment prep room.  
+Function: put patient safety against hierarchy.  
+Payoff: Adrian’s warning is clear but ignored.  
+Antagonist: Lucien overcompensates.  
+Exit hook: patient condition worsens.
+
+Scene 4.4 — Clara Defends the Wrong Man  
+Surface: corridor outside VIP room.  
+Function: keep regret delayed through denial.  
+Payoff: Clara reveals she still values status.  
+Protagonist control: Adrian refuses emotional argument.  
+Exit hook: Lucien calls for more aggressive treatment.
+
+Scene 4.5 — The First Collapse Signal  
+Surface: patient room / monitor station.  
+Function: end part with visible danger.  
+Payoff: monitor alarm proves Adrian’s warning had weight.  
+Hidden card: Lucien cannot repeat cure.  
+Exit hook: Part 5 begins with worsening condition.
+
+==================================================
+PART 5 — THE MIRACLE DOCTOR STARTS TO FAIL
+Target character range:
+14,000–15,500.
+Scene count:
+6.
+==================================================
+
+Scene 5.1 — The Treatment Backfires  
+Surface: patient room.  
+Function: midpoint medical failure.  
+Payoff: Lucien’s treatment worsens patient.  
+Regret: Clara fear begins.  
+Exit hook: Lucien blames unexpected complications.
+
+Scene 5.2 — Adrian’s Quiet Correction  
+Surface: medicine station.  
+Function: Adrian identifies safer path.  
+Payoff: nurse hesitates, then listens.  
+Cost: Adrian risks discipline.  
+Exit hook: patient stabilizes slightly.
+
+Scene 5.3 — Lucien Sees the Threat  
+Surface: doctors’ lounge / prep area.  
+Function: antagonist panic.  
+Payoff: Lucien’s mask slips privately.  
+Hidden card: he knows he lacks understanding.  
+Exit hook: he decides to blame Adrian.
+
+Scene 5.4 — Clara Watches the Difference  
+Surface: hallway through glass wall.  
+Function: regret crack.  
+Payoff: Clara sees Lucien panic and Adrian stay precise.  
+Risk: do not make her apologize.  
+Exit hook: she still chooses denial.
+
+Scene 5.5 — Evelyn Compares the Curves  
+Surface: toxicology lab.  
+Function: hidden cards align.  
+Payoff: expert proof begins forming.  
+Exit hook: Evelyn finds the first timestamp contradiction.
+
+Scene 5.6 — Sabotage Accusation  
+Surface: staff corridor / emergency team briefing.  
+Function: enemy counterattack setup.  
+Payoff: Lucien attacks Adrian because he is afraid.  
+Exit hook: hospital leadership summons Adrian.
+
+==================================================
+PART 6 — THE FAKE SAVIOR STRIKES BACK
+Target character range:
+13,000–14,000.
+Scene count:
+5.
+==================================================
+
+Scene 6.1 — The Ethics Trap  
+Surface: hospital administration room.  
+Function: Adrian framed as interfering.  
+Payoff: institution exposes fear.  
+Exit hook: Adrian’s access is further restricted.
+
+Scene 6.2 — Patient Safety Over Revenge  
+Surface: side treatment area.  
+Function: protagonist cost and moral contrast.  
+Payoff: Adrian helps despite being attacked.  
+Exit hook: Clara sees the difference.
+
+Scene 6.3 — Clara’s Moral Discomfort  
+Surface: empty corridor near patient ward.  
+Function: regret deepening.  
+Payoff: Clara cannot fully defend Lucien internally.  
+Exit hook: she still publicly supports Lucien.
+
+Scene 6.4 — Evelyn Requests Records  
+Surface: records office / compliance desk.  
+Function: true ally becomes active.  
+Payoff: official request pressures hospital.  
+Exit hook: director panics.
+
+Scene 6.5 — The Public Panel Is Announced  
+Surface: hospital announcement screen.  
+Function: final trap setup begins.  
+Payoff: Lucien locks himself into public proof.  
+Exit hook: Adrian realizes the stage is forming.
+
+==================================================
+PART 7 — THE RECORDS BEGIN TO BLEED
+Target character range:
+12,500–13,500.
+Scene count:
+5.
+==================================================
+
+Scene 7.1 — The Missing Minute  
+Surface: records archive.  
+Function: proof alignment.  
+Payoff: timestamp gap appears.  
+Exit hook: Evelyn needs original board history.
+
+Scene 7.2 — Hospital Blocks the Archive  
+Surface: archive security desk.  
+Function: institutional escalation.  
+Payoff: cover-up becomes visible.  
+Exit hook: access denial creates another log.
+
+Scene 7.3 — Adrian Remembers the Board  
+Surface: nurse station after hours.  
+Function: connect old visual proof to final evidence.  
+Payoff: treatment board history exists.  
+Exit hook: Evelyn finds backup image.
+
+Scene 7.4 — Clara Sees the Contradiction  
+Surface: staff terminal / corridor.  
+Function: proof shock seed.  
+Payoff: Clara sees data conflicting with Lucien’s story.  
+Exit hook: she tries to blame the hospital, not herself.
+
+Scene 7.5 — Lucien Accepts the Public Stage  
+Surface: internal broadcast room.  
+Function: antagonist locks final trap.  
+Payoff: his ego creates public test.  
+Exit hook: Part 8 begins at the public medical panel.
+
+==================================================
+PART 8 — THE PUBLIC TREATMENT TRAP
+Target character range:
+14,000–15,500.
+Scene count:
+6.
+==================================================
+
+Scene 8.1 — The Panel Begins  
+Surface: public medical panel / observation theater.  
+Function: gather witnesses.  
+Payoff: Lucien performs confidence.  
+Exit hook: patient symptoms shift.
+
+Scene 8.2 — Expert Questions  
+Surface: panel floor.  
+Function: expose Lucien under controlled pressure.  
+Payoff: he dodges specific toxicology question.  
+Exit hook: Evelyn looks to Adrian.
+
+Scene 8.3 — The Wrong Call  
+Surface: live treatment monitor.  
+Function: final error.  
+Payoff: Lucien chooses wrong treatment publicly.  
+Exit hook: patient crashes.
+
+Scene 8.4 — Clara’s Realization  
+Surface: audience seating / observation glass.  
+Function: regret panic.  
+Payoff: she sees Adrian knew all along.  
+Exit hook: she whispers Adrian’s name too late.
+
+Scene 8.5 — Adrian Steps Forward  
+Surface: panel floor / treatment access point.  
+Function: ethical intervention.  
+Payoff: hero acts at exact moment.  
+Exit hook: director tries to stop him.
+
+Scene 8.6 — The Correct Antidote Returns  
+Surface: treatment room.  
+Function: proof through action.  
+Payoff: patient begins stabilizing under Adrian’s decision.  
+Exit hook: Evelyn prepares full public record reveal.
+
+==================================================
+PART 9 — THE REAL DOCTOR’S NAME
+Target character range:
+15,000–16,500.
+Scene count:
+6.
+==================================================
+
+Scene 9.1 — Stabilization Before Truth  
+Surface: treatment room.  
+Function: save patient before revenge.  
+Payoff: Adrian proves ethics and competence.  
+Exit hook: witnesses demand explanation.
+
+Scene 9.2 — The Timestamp Chain  
+Surface: public medical panel screen.  
+Function: final proof reveal.  
+Payoff: Adrian ordered antidote first.  
+Exit hook: treatment board history appears.
+
+Scene 9.3 — The Altered Record  
+Surface: panel screen / hospital system archive.  
+Function: expose institution.  
+Payoff: hospital cover-up becomes visible.  
+Exit hook: director tries to blame staff.
+
+Scene 9.4 — Lucien Breaks  
+Surface: panel floor.  
+Function: antagonist collapse.  
+Payoff: fake savior cannot explain the cure.  
+Exit hook: medical board begins action.
+
+Scene 9.5 — Clara’s Too-Late Bargain  
+Surface: recovery ward corridor.  
+Function: final romantic consequence.  
+Payoff: Adrian rejects cheap forgiveness.  
+Exit hook: Clara loses the status she chose.
+
+Scene 9.6 — The Independent Offer  
+Surface: hospital exit / recovery ward threshold.  
+Function: restored dignity.  
+Payoff: Evelyn offers professional partnership.  
+Exit hook: Adrian leaves as real doctor, not erased resident.
+
+==================================================
+6. PUBLIC PAYOFF DISTRIBUTION CHECK
+==================================================
+
+| Scene | Payoff Type | Witnesses | False Belief Cracked | Status Shift | Repetition Risk |
+|---|---|---|---|---|---|
+| 1.1 | Medical competence | ER staff / viewer | Senior doctors understand case | Adrian gains hidden status | Generic genius doctor |
+| 1.3 | Institutional betrayal | Staff / viewer | Records are neutral | Hospital gains public control, Adrian gains future proof | Name-change symbol overuse |
+| 2.2 | Professional crack | Staff / viewer | Lucien understands cure | Lucien weakens privately | Too subtle |
+| 3.3 | Ally recognition | Evelyn | Adrian is jealous nobody | Adrian gains expert credibility | Private scene risk |
+| 4.2 | Visual symptom proof | Medical team | Second case is unrelated | Adrian’s warning gains weight | Monitor repetition |
+| 5.1 | Midpoint medical failure | Staff / Clara | Lucien can repeat miracle | Lucien loses competence status | Similar to 4.2 |
+| 6.2 | Ethical contrast | Clara / staff | Adrian is bitter | Adrian gains moral status | Too quiet |
+| 7.2 | Institutional crack | Records staff / Evelyn | Hospital controls records | Hospital loses credibility | Office scene risk |
+| 8.3 | Public wrong call | Panel / experts | Lucien can perform under pressure | Lucien collapses publicly | Must avoid monologue |
+| 9.2 | Final proof | Public panel | Lucien saved first patient | Adrian fully restored | Needs seeded evidence |
+
+Variety check:
+Payoffs are varied across medical, institutional, professional, romantic, ethical, public, and final systemic proof.
+
+Correction:
+Avoid overusing monitor alarms as payoff. Use treatment board, access logs, expert questions, and timestamp display as alternative proof objects.
+
+==================================================
+7. HIDDEN CARD TIMING CHECK
+==================================================
+
+| Hidden Card | Hint Scenes | Partial Reveal Scenes | Viewer Understanding | Public Reveal | Must Not Reveal Before |
+|---|---|---|---|---|---|
+| Adrian ordered antidote first | 1.1, 1.3, 1.6 | 3.1, 5.5, 7.1 | Part 5–7 | 9.2 | Full timestamp must not appear before Part 9 |
+| Hospital altered record | 1.3, 2.1, 2.3 | 6.4, 7.1, 7.2 | Part 7 | 9.3 | Do not reveal complete alteration chain before Part 9 |
+| Lucien cannot repeat cure | 1.5, 2.2 | 4.2, 5.1, 8.2 | Part 5 | 8.3–9.4 | Do not fully expose him before public panel |
+
+Timing decision:
+PASSED. Viewer gets enough superiority early, but public proof remains delayed.
+
+==================================================
+8. REGRET AND PANIC CHECK
+==================================================
+
+Betrayer regret track:
+
+Part 1:
+Clara arrogance. She believes Lucien’s public praise proves value.
+
+Part 2:
+Irritation. Adrian’s calmness does not match the defeated man she expected.
+
+Part 3:
+First doubt. Evelyn treating Adrian seriously unsettles her.
+
+Part 4:
+Denial. She sees Lucien hesitate but defends him.
+
+Part 5:
+Fear. Lucien’s treatment worsens the patient.
+
+Part 6:
+Moral discomfort. Adrian helps despite being framed.
+
+Part 7:
+Proof shock. Clara sees contradictions but blames the hospital.
+
+Part 8:
+Panic/regret. She sees Lucien fail publicly.
+
+Part 9:
+Bargaining/rejection. She tries to return too late.
+
+Antagonist panic/escalation track:
+
+Part 1:
+Lucien accepts false credit.
+
+Part 2:
+He suppresses Adrian.
+
+Part 3:
+He performs confidence against expert pressure.
+
+Part 4:
+He takes the second case.
+
+Part 5:
+He panics and blames Adrian.
+
+Part 6:
+He weaponizes hospital authority.
+
+Part 7:
+He chooses public stage to restore image.
+
+Part 8:
+He doubles down under live pressure.
+
+Part 9:
+He breaks under final proof.
+
+Decision:
+PASSED. Regret is gradual; antagonist panic grows logically.
+
+==================================================
+9. PROTAGONIST CONTROL CHECK
+==================================================
+
+Part 1:
+Appears to lose credit and Clara. Gains proof of Lucien accepting false identity.
+
+Part 2:
+Appears to lose access. Gains suppression trail.
+
+Part 3:
+Appears isolated. Gains Evelyn’s recognition.
+
+Part 4:
+Appears blocked from case. Gains live repeat-case comparison.
+
+Part 5:
+Appears unable to act openly. Gains visible proof of Lucien’s failure.
+
+Part 6:
+Appears framed. Gains evidence of institutional overreach.
+
+Part 7:
+Appears behind the public narrative. Gains verified record contradictions.
+
+Part 8:
+Appears forced into exposure. Gains undeniable live proof.
+
+Part 9:
+Loses old relationship and corrupt hospital belonging. Gains public authority and restored dignity.
+
+Decision:
+PASSED. Adrian wins through competence, proof, timing, and ethical restraint, not random godlike power.
+
+==================================================
+10. DIALOGUE CONTROL CHECK
+==================================================
+
+Risky scene:
+Scene 3.1 — Evelyn’s Question.
+
+Visual replacement:
+Use blood-curve graph, circled toxin marker, and Adrian’s short answers.
+
+Keep dialogue:
+Focused technical Q&A only.
+
+Avoid:
+Long toxicology lecture.
+
+Risky scene:
+Scene 6.1 — The Ethics Trap.
+
+Visual replacement:
+Use printed disciplinary form, access restriction notice, and silent staff reactions.
+
+Keep dialogue:
+Short institutional pressure.
+
+Avoid:
+Long administrative debate.
+
+Risky scene:
+Scene 8.2 — Expert Questions.
+
+Visual replacement:
+Use Lucien’s hesitation, monitor data, and Evelyn’s clipped question.
+
+Keep dialogue:
+One or two sharp questions.
+
+Avoid:
+Panel monologue.
+
+Risky scene:
+Scene 9.2 — The Timestamp Chain.
+
+Visual replacement:
+Use public screen timeline, treatment order ID, and monitor graph overlay.
+
+Keep dialogue:
+Evelyn’s concise explanation.
+
+Avoid:
+Full courtroom-style speech.
+
+==================================================
+11. FINAL SCRIPT READINESS CHECK
+==================================================
+
+1. Are all 9 parts covered?
+Yes.
+
+2. Does each part have enough scenes?
+Yes. 49 total scenes supports 120,000–130,000 characters.
+
+3. Does every scene have a clear function?
+Yes for detailed Parts 1–3. In real output, Parts 4–9 must be expanded with the same detail before approval.
+
+4. Does every part have visible payoff?
+Yes.
+
+5. Are surfaces varied?
+Yes, within the hospital premise.
+
+6. Is the opening fresh?
+Yes. Emergency Room Erasure passes.
+
+7. Are hidden cards timed correctly?
+Yes.
+
+8. Is regret gradual?
+Yes.
+
+9. Is antagonist escalation logical?
+Yes.
+
+10. Is protagonist control believable?
+Yes.
+
+11. Are there enough visual proof objects?
+Yes: treatment board, monitor, blood curve, ID access, timestamp chain, panel screen.
+
+12. Does this scene matrix support 120,000–130,000 characters?
+Yes, if all 49 scenes are expanded fully in the real output.
+
+Correction:
+The real output must not leave Parts 4–9 summarized. It must expand all scene cards fully before moving to 04 FINAL SCRIPT.
+
+==================================================
+12. 03 SCENE CARDS FINAL DECISION
+==================================================
+
+A. APPROVED FOR 04 FINAL SCRIPT — only if all Parts 1–9 are fully expanded with complete scene cards.
+
+For this demonstration:
+STRUCTURE APPROVED, BUT FULL REAL OUTPUT MUST EXPAND PARTS 4–9 IN COMPLETE SCENE CARD FORMAT.
+
+Reason:
+The scene architecture is strong, opening is original, surfaces fit the premise, hidden cards are timed correctly, and payoff types are varied.
+
+==================================================
+13. HANDOFF PACKAGE TO 04 FINAL SCRIPT
+==================================================
+
+Total scene count:
+49 scenes.
+
+Scene count by part:
+Part 1: 6.  
+Part 2: 5.  
+Part 3: 5.  
+Part 4: 5.  
+Part 5: 6.  
+Part 6: 5.  
+Part 7: 5.  
+Part 8: 6.  
+Part 9: 6.
+
+Approved opening fingerprint:
+Emergency resuscitation room, antidote dosage, monitor alarm, treatment-board name replacement, Lucien arriving after stabilization.
+
+Complete scene matrix summary:
+Part 1: emergency proof and stolen miracle.  
+Part 2: suppression and technical crack.  
+Part 3: ally recognition.  
+Part 4: second case.  
+Part 5: medical failure.  
+Part 6: counterattack.  
+Part 7: proof alignment.  
+Part 8: public treatment trap.  
+Part 9: final proof and restored dignity.
+
+Target character count per part:
+Part 1: 14,000–15,500.  
+Part 2: 12,500–13,500.  
+Part 3: 12,500–13,500.  
+Part 4: 13,500–14,500.  
+Part 5: 14,000–15,500.  
+Part 6: 13,000–14,000.  
+Part 7: 12,500–13,500.  
+Part 8: 14,000–15,500.  
+Part 9: 15,000–16,500.
+
+Key proof objects:
+Treatment board, antidote order, blood toxicity curve, access denial logs, monitor pattern, public timestamp screen.
+
+Hidden card timing:
+Do not publicly reveal full antidote timestamp until Part 9.  
+Do not publicly reveal record alteration until Part 9.  
+Do not fully expose Lucien’s inability until Part 8–9.
+
+Regret / panic tracks:
+Clara’s regret must grow slowly from arrogance to rejection.  
+Lucien must escalate from confidence to panic to self-destruction.
+
+Protagonist control notes:
+Adrian must remain controlled but human. He wins through competence, proof, ethics, and timing.
+
+Payoff distribution:
+Use varied medical, professional, institutional, romantic, ethical, and final systemic payoffs.
+
+Surfaces to avoid:
+Gala, red carpet, luxury party, generic press-only reveal, repeated committee rooms.
+
+Dialogue control notes:
+Avoid long medical lectures, administrative monologues, and final proof speeches. Use visual evidence and short sharp lines.
+
+Final writing rules for 04 FINAL SCRIPT:
+Write from approved scene cards only. Do not invent new major plot logic. Keep paragraphs within required length. Preserve the opening surface. Preserve
+
