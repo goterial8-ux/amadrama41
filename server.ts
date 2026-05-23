@@ -23,8 +23,11 @@ async function startServer() {
     res.status(404).json({ success: false, error: "Not Implemented. Use /api routes." });
   });
 
-  // Vite middleware for development
-  if (process.env.NODE_ENV !== 'production') {
+  // Vite middleware for development (only if explicitly set to development, and NOT running in Cloud Run container)
+  const isDev = process.env.NODE_ENV === 'development' || 
+                (process.env.NODE_ENV !== 'production' && !process.env.K_SERVICE);
+
+  if (isDev) {
     console.log("Loading Vite in development mode...");
     const { createServer: createViteServer } = await import('vite');
     const vite = await createViteServer({
