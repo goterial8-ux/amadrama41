@@ -11,7 +11,7 @@ console.log("GOOGLE_GENAI_USE_VERTEXAI:", process.env.GOOGLE_GENAI_USE_VERTEXAI)
 
 async function startServer() {
   const app = express();
-  const port = Number(process.env.PORT || 8080);
+  const port = Number(process.env.PORT || 3000);
 
   app.use(express.json({ limit: '10mb' }));
 

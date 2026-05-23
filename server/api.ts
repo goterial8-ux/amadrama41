@@ -1,5 +1,5 @@
 import { Router, Request, Response } from 'express';
-import { GoogleGenAI, Type } from '@google/genai';
+import { GoogleGenAI, Type, ThinkingLevel } from '@google/genai';
 import { v4 as uuidv4 } from 'uuid';
 import { SETUP_PROMPT, FOUNDATION_PROMPT, MACRO_OUTLINE_PROMPT, SCENE_CARDS_PROMPT, FINAL_SCRIPT_PROMPT, LINTER_QA_PROMPT } from './prompts.js';
 import { ideaSetupSchema, foundationDnaSchema, macroOutlineSchema, sceneCardsSchema, qaSchema } from './schemas.js';
@@ -97,7 +97,7 @@ router.post('/generate/foundation', async (req: Request, res: Response): Promise
     const { rawIdea } = req.body;
     if (!rawIdea) { res.status(400).json({ error: 'Missing rawIdea' }); return; }
 
-    // Step 1: Execute 00 IDEA SETUP
+    // Step 1: Execute 00 IDEA SETUP -> Gemini 2.5 Pro
     const ideaSetupResponse = await generateContentWithFallback(
       `RAW IDEA:\n"${rawIdea}"`,
       {
@@ -106,12 +106,12 @@ router.post('/generate/foundation', async (req: Request, res: Response): Promise
         responseSchema: ideaSetupSchema,
         temperature: 0.7,
       },
-      ['gemini-2.5-pro', 'gemini-2.5-flash']
+      ['gemini-2.5-pro']
     );
 
     const ideaSetupData = JSON.parse(ideaSetupResponse.text || '{}');
 
-    // Step 2: Execute 01 FOUNDATION DNA
+    // Step 2: Execute 01 FOUNDATION DNA -> Gemini 3.5 Flash
     let promptText01 = `RAW IDEA: "${rawIdea}"\n\n`;
     promptText01 += `00 IDEA SETUP HANDOFF PACKAGE:\n${JSON.stringify(ideaSetupData.handoffPackageToStage01, null, 2)}\n\n`;
 
@@ -123,7 +123,7 @@ router.post('/generate/foundation', async (req: Request, res: Response): Promise
         responseSchema: foundationDnaSchema,
         temperature: 0.7,
       },
-      ['gemini-3.5-flash', 'gemini-2.5-flash']
+      ['gemini-3.5-flash']
     );
 
     const data01 = JSON.parse(response01.text || '{}');
@@ -152,8 +152,9 @@ router.post('/generate/outline', async (req: Request, res: Response): Promise<vo
         responseMimeType: 'application/json',
         responseSchema: macroOutlineSchema,
         temperature: 0.7,
+        thinkingConfig: { thinkingLevel: ThinkingLevel.HIGH }
       },
-      ['gemini-3.1-pro-preview', 'gemini-2.5-flash']
+      ['gemini-3.1-pro-preview']
     );
 
     const data = JSON.parse(response.text || '{}');
@@ -180,7 +181,7 @@ router.post('/generate/scenes', async (req: Request, res: Response): Promise<voi
           responseSchema: sceneCardsSchema,
           temperature: 0.7,
         },
-        ['gemini-3.5-flash', 'gemini-2.5-flash']
+        ['gemini-3.5-flash']
       );
   
       const data = JSON.parse(response.text || '{}');
@@ -211,8 +212,9 @@ router.post('/generate/script-part', async (req: Request, res: Response): Promis
         {
           systemInstruction: FINAL_SCRIPT_PROMPT,
           temperature: 0.75,
+          thinkingConfig: { thinkingLevel: ThinkingLevel.HIGH }
         },
-        ['gemini-3.1-pro-preview', 'gemini-2.5-flash']
+        ['gemini-3.1-pro-preview']
       );
   
       res.json({ content: response.text });
@@ -234,8 +236,9 @@ router.post('/generate/qa', async (req: Request, res: Response): Promise<void> =
         {
           systemInstruction: LINTER_QA_PROMPT,
           temperature: 0.2,
+          thinkingConfig: { thinkingLevel: ThinkingLevel.HIGH }
         },
-        ['gemini-3.1-pro-preview', 'gemini-2.5-flash']
+        ['gemini-3.1-pro-preview']
       );
   
       res.json({ content: response.text });
@@ -284,11 +287,11 @@ ${isJson ? 'You MUST output in the exact same JSON schema structure as the origi
       config.responseSchema = schema;
     }
 
-    let revisionModels = ['gemini-3.1-pro-preview', 'gemini-2.5-flash'];
-    if (stage === 'foundation') {
-      revisionModels = ['gemini-3.5-flash', 'gemini-2.5-flash'];
-    } else if (stage === 'scenes') {
-      revisionModels = ['gemini-3.5-flash', 'gemini-2.5-flash'];
+    let revisionModels = ['gemini-3.1-pro-preview'];
+    if (stage === 'foundation' || stage === 'scenes') {
+      revisionModels = ['gemini-3.5-flash'];
+    } else {
+      config.thinkingConfig = { thinkingLevel: ThinkingLevel.HIGH };
     }
 
     const response = await generateContentWithFallback(
