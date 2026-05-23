@@ -10,21 +10,45 @@ const baseGuidelines = '';
 
 // Initialize SDK lazily
 function getGenAI() {
+  const apiKey = process.env.GEMINI_API_KEY;
+  const useVertex = process.env.GOOGLE_GENAI_USE_VERTEXAI === 'true';
   const project = process.env.GOOGLE_CLOUD_PROJECT || process.env.VERTEX_PROJECT_ID;
   const location = process.env.GOOGLE_CLOUD_LOCATION || process.env.VERTEX_LOCATION || 'global';
   
-  console.log("Vertex project:", project);
-  console.log("Vertex location:", location);
-  console.log("Use Vertex:", process.env.GOOGLE_GENAI_USE_VERTEXAI);
+  console.log("Detecting GenAI Config:");
+  console.log(" - GEMINI_API_KEY present:", !!apiKey);
+  console.log(" - GOOGLE_GENAI_USE_VERTEXAI:", process.env.GOOGLE_GENAI_USE_VERTEXAI);
+  console.log(" - Vertex Project:", project);
+  console.log(" - Vertex Location:", location);
 
-  if (!project || !location) {
-    throw new Error('Missing GOOGLE_CLOUD_PROJECT or GOOGLE_CLOUD_LOCATION for Vertex AI.');
+  // If useVertex is explicitly requested, or if we don't have an API key but have GCP project info
+  if (useVertex || (!apiKey && project)) {
+    console.log("[GenAI] Initializing with Vertex AI...");
+    return new GoogleGenAI({ 
+      vertexai: true,
+      project: project,
+      location: location,
+      httpOptions: {
+        headers: {
+          'User-Agent': 'aistudio-build',
+        }
+      }
+    });
   }
 
-  return new GoogleGenAI({ 
-    vertexai: !!process.env.GOOGLE_GENAI_USE_VERTEXAI || true,
-    project: project,
-    location: location,
+  // Otherwise, default to standard Gemini API Key
+  if (!apiKey) {
+    throw new Error('No API key or Vertex AI project config found. Please set GEMINI_API_KEY.');
+  }
+
+  console.log("[GenAI] Initializing with Gemini API Key...");
+  return new GoogleGenAI({
+    apiKey: apiKey,
+    httpOptions: {
+      headers: {
+        'User-Agent': 'aistudio-build',
+      }
+    }
   });
 }
 

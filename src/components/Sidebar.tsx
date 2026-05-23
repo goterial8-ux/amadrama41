@@ -1,7 +1,7 @@
 import React from 'react';
-import { ProjectData } from '../types.js';
+import { ProjectData } from '../types.ts';
 import { CheckCircle2, Circle, Clock, Loader2, FileText, LayoutTemplate, Layers, GitCommit, FileCode2 } from 'lucide-react';
-import { cn } from '../lib/utils.js';
+import { cn } from '../lib/utils.ts';
 
 interface SidebarProps {
   data: ProjectData;

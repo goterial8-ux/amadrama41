@@ -1,7 +1,7 @@
 import React from 'react';
-import { ProjectData } from '../types.js';
+import { ProjectData } from '../types.ts';
 import { CheckCircle2, AlertCircle } from 'lucide-react';
-import { RevisionBox } from './Shared.js';
+import { RevisionBox } from './Shared.tsx';
 
 export function QAView({ data, setData }: { data: ProjectData, setData: React.Dispatch<React.SetStateAction<ProjectData>> }) {
   if (!data.stage08) return <div className="p-8 text-[#666] font-mono uppercase text-[10px] tracking-widest">Awaiting QA...</div>;

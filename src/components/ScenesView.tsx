@@ -1,6 +1,6 @@
 import React from 'react';
-import { ProjectData } from '../types.js';
-import { DataBlock, TagsBlock, RevisionBox } from './Shared.js';
+import { ProjectData } from '../types.ts';
+import { DataBlock, TagsBlock, RevisionBox } from './Shared.tsx';
 
 export function ScenesView({ data, setData }: { data: ProjectData, setData: React.Dispatch<React.SetStateAction<ProjectData>> }) {
   if (!data.stage03) return <div className="p-8 text-[#666] font-mono uppercase text-[10px] tracking-widest">Awaiting scene generation...</div>;

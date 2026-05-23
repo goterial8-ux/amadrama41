@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { ProjectData } from '../types.js';
-import { Button, Card, Loader } from './ui.js';
+import { ProjectData } from '../types.ts';
+import { Button, Card, Loader } from './ui.tsx';
 
 interface SetupStageProps {
   data: ProjectData;
