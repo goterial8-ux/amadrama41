@@ -47,10 +47,16 @@ export function SetupStage({ data, onGenerate, status }: SetupStageProps) {
         </div>
       </Card>
       
+      {status === 'generating_setup' && (
+        <div className="mt-12 text-center text-[#666] flex flex-col items-center">
+            <Loader className="mb-4 !border-t-[#f43f5e] !border-r-[#f43f5e] w-8 h-8 rounded-full" />
+            <p className="font-mono text-[10px] tracking-[0.4em] text-[#f43f5e] animate-pulse">STEP 00: INITIating idea seTUP (GEMINI 2.5 PRO)...</p>
+        </div>
+      )}
       {status === 'generating_foundation' && (
         <div className="mt-12 text-center text-[#666] flex flex-col items-center">
             <Loader className="mb-4 !border-t-[#f43f5e] !border-r-[#f43f5e] w-8 h-8 rounded-full" />
-            <p className="font-mono text-[10px] tracking-[0.4em] text-[#f43f5e] animate-pulse">ANALYZING DNA / EXTRACTING TROPES / MAPPING EMOTIONS</p>
+            <p className="font-mono text-[10px] tracking-[0.4em] text-[#f43f5e] animate-pulse">STEP 01: EXTRACTING FOUNDATION DNA (GEMINI 3.5 FLASH)...</p>
         </div>
       )}
     </div>

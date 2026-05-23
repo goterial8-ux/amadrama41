@@ -296,7 +296,7 @@ export interface Stage08 {
 export interface ProjectData {
   id: string;
   rawIdea: string;
-  status: 'idle' | 'generating_foundation' | 'generating_outline' | 'generating_scenes' | 'generating_script' | 'qa' | 'complete' | 'error';
+  status: 'idle' | 'generating_setup' | 'generating_foundation' | 'generating_outline' | 'generating_scenes' | 'generating_script' | 'qa' | 'complete' | 'error';
   currentScriptPart?: number;
   stage00?: any;
   stage01?: any;

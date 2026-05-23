@@ -91,8 +91,8 @@ async function generateContentWithFallback(contents: any, config: any, models: s
   throw new Error("All fallbacks exhausted");
 }
 
-router.post('/generate/foundation', async (req: Request, res: Response): Promise<void> => {
-  console.log("POST /api/generate/foundation called");
+router.post('/generate/setup', async (req: Request, res: Response): Promise<void> => {
+  console.log("POST /api/generate/setup called");
   try {
     const { rawIdea } = req.body;
     if (!rawIdea) { res.status(400).json({ error: 'Missing rawIdea' }); return; }
@@ -110,6 +110,19 @@ router.post('/generate/foundation', async (req: Request, res: Response): Promise
     );
 
     const ideaSetupData = JSON.parse(ideaSetupResponse.text || '{}');
+    res.json(ideaSetupData);
+  } catch (error: any) {
+    console.error(error);
+    res.status(500).json({ success: false, error: error.message || 'Generation failed' });
+  }
+});
+
+router.post('/generate/foundation', async (req: Request, res: Response): Promise<void> => {
+  console.log("POST /api/generate/foundation called");
+  try {
+    const { rawIdea, ideaSetupData } = req.body;
+    if (!rawIdea) { res.status(400).json({ error: 'Missing rawIdea' }); return; }
+    if (!ideaSetupData) { res.status(400).json({ error: 'Missing ideaSetupData' }); return; }
 
     // Step 2: Execute 01 FOUNDATION DNA -> Gemini 3.5 Flash
     let promptText01 = `RAW IDEA: "${rawIdea}"\n\n`;
@@ -127,12 +140,7 @@ router.post('/generate/foundation', async (req: Request, res: Response): Promise
     );
 
     const data01 = JSON.parse(response01.text || '{}');
-    
-    // Combine everything into a single return format
-    res.json({
-      stage00: ideaSetupData,
-      stage01: data01
-    });
+    res.json(data01);
   } catch (error: any) {
     console.error(error);
     res.status(500).json({ success: false, error: error.message || 'Generation failed' });

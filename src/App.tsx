@@ -37,13 +37,13 @@ export default function App() {
 
   const startPipeline = async (idea: string) => {
     stopGenerationRef.current = false;
-    setData(prev => ({ ...prev, rawIdea: idea, status: 'generating_foundation' }));
+    setData(prev => ({ ...prev, rawIdea: idea, status: 'generating_setup' }));
     
-    // Call Foundation API
-    let foundationData;
+    // Call Setup API -> Stage 00 (Gemini 2.5 Pro)
+    let setupData;
     try {
       if (stopGenerationRef.current) return;
-      foundationData = await fetchJson('/api/generate/foundation', {
+      setupData = await fetchJson('/api/generate/setup', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ rawIdea: idea }),
@@ -51,10 +51,28 @@ export default function App() {
       
       setData(prev => ({ 
         ...prev, 
-        stage00: foundationData.stage00,
-        stage01: foundationData.stage01,
-        stage03: foundationData.stage03,
-        stage04: foundationData.stage04,
+        stage00: setupData,
+        status: 'generating_foundation' 
+      }));
+      setActiveStage('setup');
+    } catch (e: any) {
+        setData(prev => ({ ...prev, status: 'error', error: e.message }));
+        return;
+    }
+
+    // Call Foundation API -> Stage 01 (Gemini 3.5 Flash)
+    let foundationData;
+    try {
+      if (stopGenerationRef.current) return;
+      foundationData = await fetchJson('/api/generate/foundation', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ rawIdea: idea, ideaSetupData: setupData }),
+      });
+      
+      setData(prev => ({ 
+        ...prev, 
+        stage01: foundationData,
         status: 'generating_outline' 
       }));
       setActiveStage('foundation');
@@ -63,14 +81,14 @@ export default function App() {
         return;
     }
 
-    // Call Outline API
+    // Call Outline API -> Stage 02 (Gemini 3.1 Pro Preview HIGH)
     let outlineData;
     try {
       if (stopGenerationRef.current) return;
       outlineData = await fetchJson('/api/generate/outline', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(foundationData), 
+        body: JSON.stringify({ stage00: setupData, stage01: foundationData }), 
       });
       
       setData(prev => ({
@@ -84,11 +102,11 @@ export default function App() {
         return;
     }
 
-    // Call Scenes API
+    // Call Scenes API -> Stage 03 (Gemini 3.5 Flash)
     let scenesData;
     try {
       if (stopGenerationRef.current) return;
-      const projectSoFar = { foundation: foundationData, outline: outlineData };
+      const projectSoFar = { foundation: { stage00: setupData, stage01: foundationData }, outline: outlineData };
       scenesData = await fetchJson('/api/generate/scenes', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -124,7 +142,7 @@ export default function App() {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
               partNumber: i,
-              foundation: foundationData,
+              foundation: { stage00: setupData, stage01: foundationData },
               outlinePart: partOutline,
               scenesForPart: partScenes,
               previousPartsContext: previousContext,
@@ -148,7 +166,7 @@ export default function App() {
         const qaData = await fetchJson('/api/generate/qa', {
            method: 'POST',
            headers: { 'Content-Type': 'application/json' },
-           body: JSON.stringify({ fullScript: fullScriptStr, foundation: foundationData }),
+           body: JSON.stringify({ fullScript: fullScriptStr, foundation: { stage00: setupData, stage01: foundationData } }),
         });
         setData(prev => ({ ...prev, status: 'complete', stage08: qaData }));
       } catch (e: any) {

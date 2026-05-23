@@ -12,8 +12,8 @@ interface SidebarProps {
 
 export function Sidebar({ data, activeStage, setActiveStage, clearSession }: SidebarProps) {
   const steps = [
-    { id: 'setup', label: '00 Idea Setup', status: data.status !== 'idle' ? 'complete' : 'current' },
-    { id: 'foundation', label: '01 Foundation DNA', status: !!data.stage00 ? 'complete' : (data.status === 'generating_foundation' ? 'running' : 'pending') },
+    { id: 'setup', label: '00 Idea Setup', status: data.status === 'generating_setup' ? 'running' : (!!data.stage00 ? 'complete' : 'current') },
+    { id: 'foundation', label: '01 Foundation DNA', status: !!data.stage01 ? 'complete' : (data.status === 'generating_foundation' ? 'running' : 'pending') },
     { id: 'outline', label: '02 Macro Outline', status: !!data.stage02 ? 'complete' : (data.status === 'generating_outline' ? 'running' : 'pending') },
     { id: 'scenes', label: '03 Scene Cards', status: !!data.stage03 ? 'complete' : (data.status === 'generating_scenes' ? 'running' : 'pending') },
     { id: 'script', label: '04 Final Script', status: !!data.stage07 && data.stage07.length === 9 ? 'complete' : (data.status === 'generating_script' ? 'running' : 'pending') },
