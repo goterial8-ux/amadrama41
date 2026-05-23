@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 
 async function startServer() {
   const app = express();
-  const PORT = process.env.PORT || 8080;
+  const PORT = Number(process.env.PORT) || 8080;
 
   app.use(express.json({ limit: '10mb' }));
 

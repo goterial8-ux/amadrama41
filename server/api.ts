@@ -43,9 +43,8 @@ function isRetryableError(e: any): boolean {
    return true;
 }
 
-async function generateContentWithFallback(contents: any, config: any) {
+async function generateContentWithFallback(contents: any, config: any, models: string[]) {
   const ai = getGenAI();
-  const models = ['gemini-3-flash-preview', 'gemini-2.5-flash'];
   
   for (const model of models) {
      console.log(`[Vertex AI] Trying model: ${model}`);
@@ -82,7 +81,8 @@ router.post('/generate/foundation', async (req: Request, res: Response): Promise
         responseMimeType: 'application/json',
         responseSchema: ideaSetupSchema,
         temperature: 0.7,
-      }
+      },
+      ['gemini-2.5-pro', 'gemini-2.5-flash']
     );
 
     const ideaSetupData = JSON.parse(ideaSetupResponse.text || '{}');
@@ -98,7 +98,8 @@ router.post('/generate/foundation', async (req: Request, res: Response): Promise
         responseMimeType: 'application/json',
         responseSchema: foundationDnaSchema,
         temperature: 0.7,
-      }
+      },
+      ['gemini-3.5-flash', 'gemini-2.5-flash']
     );
 
     const data01 = JSON.parse(response01.text || '{}');
@@ -127,7 +128,8 @@ router.post('/generate/outline', async (req: Request, res: Response): Promise<vo
         responseMimeType: 'application/json',
         responseSchema: macroOutlineSchema,
         temperature: 0.7,
-      }
+      },
+      ['gemini-3.1-pro-preview', 'gemini-2.5-flash']
     );
 
     const data = JSON.parse(response.text || '{}');
@@ -153,7 +155,8 @@ router.post('/generate/scenes', async (req: Request, res: Response): Promise<voi
           responseMimeType: 'application/json',
           responseSchema: sceneCardsSchema,
           temperature: 0.7,
-        }
+        },
+        ['gemini-3.5-flash', 'gemini-2.5-flash']
       );
   
       const data = JSON.parse(response.text || '{}');
@@ -184,7 +187,8 @@ router.post('/generate/script-part', async (req: Request, res: Response): Promis
         {
           systemInstruction: FINAL_SCRIPT_PROMPT,
           temperature: 0.75,
-        }
+        },
+        ['gemini-3.1-pro-preview', 'gemini-2.5-flash']
       );
   
       res.json({ content: response.text });
@@ -206,7 +210,8 @@ router.post('/generate/qa', async (req: Request, res: Response): Promise<void> =
         {
           systemInstruction: LINTER_QA_PROMPT,
           temperature: 0.2,
-        }
+        },
+        ['gemini-3.1-pro-preview', 'gemini-2.5-flash']
       );
   
       res.json({ content: response.text });
@@ -255,9 +260,17 @@ ${isJson ? 'You MUST output in the exact same JSON schema structure as the origi
       config.responseSchema = schema;
     }
 
+    let revisionModels = ['gemini-3.1-pro-preview', 'gemini-2.5-flash'];
+    if (stage === 'foundation') {
+      revisionModels = ['gemini-3.5-flash', 'gemini-2.5-flash'];
+    } else if (stage === 'scenes') {
+      revisionModels = ['gemini-3.5-flash', 'gemini-2.5-flash'];
+    }
+
     const response = await generateContentWithFallback(
       systemInstruction,
-      config
+      config,
+      revisionModels
     );
 
     if (isJson) {
